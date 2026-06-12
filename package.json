@@ -1,0 +1,12 @@
+{
+  "name": "roam-research-librarian",
+  "version": "1.0.0",
+  "description": "Automated research librarian: fetches papers from Semantic Scholar and writes to a markdown inbox.",
+  "main": "scripts/fetch-papers.js",
+  "scripts": {
+    "start": "node scripts/fetch-papers.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
