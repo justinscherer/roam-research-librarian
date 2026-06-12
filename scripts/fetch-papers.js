@@ -24,6 +24,10 @@ const OUTPUT_PATH = path.join(__dirname, '../data/papers-inbox.md');
 const SS_BASE = 'https://api.semanticscholar.org/graph/v1/paper/search';
 const FIELDS = 'paperId,title,authors,year,abstract,externalIds,openAccessPdf,publicationDate';
 
+const ROAM_BACKEND_URL = process.env.ROAM_BACKEND_URL || 'https://roam-research.com';
+const ROAM_GRAPH_NAME  = process.env.ROAM_GRAPH_NAME;
+const ROAM_API_TOKEN   = process.env.ROAM_API_TOKEN;
+
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
 function sleep(ms) {
@@ -104,41 +108,55 @@ function prependToFile(filePath, content) {
   fs.writeFileSync(filePath, content + '\n' + existing, 'utf8');
 }
 
-// ── Mock data (USE_MOCK_DATA=true bypasses the API for end-to-end testing) ────
+// ── Roam ──────────────────────────────────────────────────────────────────────
 
-const MOCK_PAPERS = [
-  {
-    paperId: 'mock-001',
-    title: 'How People Seek Information on Mobile Devices',
-    year: 2026,
-    publicationDate: '2026-04-10',
-    authors: [{ name: 'Alice Nakamura' }, { name: 'Ben Osei' }, { name: 'Clara Voss' }, { name: 'David Park' }],
-    externalIds: { DOI: '10.1234/mock.001' },
-    abstract: 'This paper examines information-seeking patterns on smartphones, finding that users prefer short, scannable content over long-form text when browsing on mobile interfaces.',
-  },
-  {
-    paperId: 'mock-002',
-    title: 'Curiosity and Exploration in Digital Reading Environments',
-    year: 2026,
-    publicationDate: '2026-03-22',
-    authors: [{ name: 'Fatima Al-Hassan' }],
-    externalIds: {},
-    abstract: null,
-  },
-  {
-    paperId: 'mock-003',
-    title: 'Online Reading Comprehension Across Device Contexts',
-    year: 2026,
-    publicationDate: '2026-05-01',
-    authors: [{ name: 'George Lindqvist' }, { name: 'Hannah Choi' }],
-    externalIds: { DOI: '10.5678/mock.003' },
-    abstract: 'A large-scale study of reading comprehension comparing desktop and mobile contexts, with implications for interface design and content formatting in digital learning environments.',
-  },
-];
+function buildRoamPaperBlock(paper) {
+  const title = paper.title || 'Untitled';
+  const year = paper.year || '?';
+  const authors = formatAuthors(paper.authors);
+  const url = buildUrl(paper);
+  const published = paper.publicationDate || String(paper.year) || 'Unknown';
+  const abstract = truncate(paper.abstract, ABSTRACT_TRUNCATE);
 
-async function fetchMockPapers() {
-  console.log('  [mock] returning hardcoded papers');
-  return MOCK_PAPERS;
+  return {
+    string: `**[[${title}]]** (${year}) — ${authors}`,
+    children: [
+      { string: `📎 [${url}](${url})` },
+      { string: `🗓️ Published: ${published}` },
+      { string: `📄 ${abstract}` },
+      { string: '#[[To Read]] #[[Research Inbox]]' },
+    ],
+  };
+}
+
+async function writeToRoam(papers, runDate) {
+  const endpoint = `${ROAM_BACKEND_URL}/api/graph/${ROAM_GRAPH_NAME}/write`;
+
+  const payload = {
+    action: 'append-blocks',
+    'page-title': 'Papers Inbox',
+    blocks: [
+      {
+        string: `**New papers — ${runDate}**`,
+        children: papers.map(buildRoamPaperBlock),
+      },
+    ],
+  };
+
+  const res = await fetch(endpoint, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${ROAM_API_TOKEN}`,
+    },
+    body: JSON.stringify(payload),
+  });
+
+  if (!res.ok) {
+    const body = await res.text();
+    console.error(`Roam API error ${res.status}: ${body}`);
+    process.exit(1);
+  }
 }
 
 // ── Fetch ─────────────────────────────────────────────────────────────────────
@@ -183,34 +201,23 @@ async function main() {
   const allPapers = [];
   const seenInRun = new Set();
 
-  if (process.env.USE_MOCK_DATA === 'true') {
-    console.log('[mock mode] Skipping API calls.');
-    const papers = await fetchMockPapers();
-    for (const paper of papers) {
-      if (!paper.paperId) continue;
-      if (seenSet.has(paper.paperId)) continue;
-      seenInRun.add(paper.paperId);
-      allPapers.push(paper);
-    }
-  } else {
-    for (const topic of SEARCH_TOPICS) {
-      console.log(`Querying: "${topic}"`);
-      try {
-        const papers = await fetchTopic(topic, dateRange);
-        console.log(`  → ${papers.length} results`);
-        for (const paper of papers) {
-          if (!paper.paperId) continue;
-          if (seenSet.has(paper.paperId)) continue;
-          if (seenInRun.has(paper.paperId)) continue;
-          seenInRun.add(paper.paperId);
-          allPapers.push(paper);
-        }
-      } catch (err) {
-        console.error(`  Error fetching "${topic}": ${err.message}`);
+  for (const topic of SEARCH_TOPICS) {
+    console.log(`Querying: "${topic}"`);
+    try {
+      const papers = await fetchTopic(topic, dateRange);
+      console.log(`  → ${papers.length} results`);
+      for (const paper of papers) {
+        if (!paper.paperId) continue;
+        if (seenSet.has(paper.paperId)) continue;
+        if (seenInRun.has(paper.paperId)) continue;
+        seenInRun.add(paper.paperId);
+        allPapers.push(paper);
       }
-
-      await sleep(1000);
+    } catch (err) {
+      console.error(`  Error fetching "${topic}": ${err.message}`);
     }
+
+    await sleep(1000);
   }
 
   if (allPapers.length === 0) {
@@ -225,6 +232,14 @@ async function main() {
 
   const newIds = [...seenIds, ...allPapers.map((p) => p.paperId)];
   saveSeenPapers(newIds);
+
+  if (ROAM_GRAPH_NAME) {
+    console.log(`Writing ${allPapers.length} paper(s) to Roam graph "${ROAM_GRAPH_NAME}"...`);
+    await writeToRoam(allPapers, runDate);
+    console.log('Roam write complete.');
+  } else {
+    console.log('ROAM_GRAPH_NAME not set — skipping Roam write.');
+  }
 
   console.log(`Done. seen-papers.json now has ${newIds.length} entries.`);
 }

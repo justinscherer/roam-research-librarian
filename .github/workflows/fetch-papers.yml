@@ -28,6 +28,8 @@ jobs:
         env:
           USE_MOCK_DATA: 'true'
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          ROAM_API_TOKEN: ${{ secrets.ROAM_API_TOKEN }}
+          ROAM_GRAPH_NAME: ${{ secrets.ROAM_GRAPH_NAME }}
 
       - name: Commit updated data files
         run: |
