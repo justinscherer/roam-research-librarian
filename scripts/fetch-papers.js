@@ -8,9 +8,9 @@ const path = require('path');
 
 const SEARCH_TOPICS = [
   'information seeking mobile web',
-  'reading behavior mobile interfaces',
-  'information seeking',
-  'online reading comprehension',
+  'mobile reading behavior',
+  'Wikipedia',
+  'online readability',
   'curiosity',
 ];
 
