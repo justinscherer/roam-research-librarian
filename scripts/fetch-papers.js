@@ -14,7 +14,7 @@ const SEARCH_TOPICS = [
 
 const RESULTS_PER_QUERY = 10;
 const MAX_TOTAL_PAPERS = 10;
-const DATE_WINDOW_DAYS = 90;
+const DATE_WINDOW_DAYS = 30;
 const ABSTRACT_TRUNCATE = 300;
 
 const SEEN_PAPERS_PATH = path.join(__dirname, '../data/seen-papers.json');
