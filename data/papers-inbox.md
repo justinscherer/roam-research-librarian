@@ -1,5 +1,263 @@
 ## New papers — 2026-06-12
 
+### Radon and Thoron in Volcanic, Tectonic, and Hydrothermal Systems: A Critical Synthesis and Reduced Inference Framework (2026)
+**Authors:** Sebastiano Ettore Spoto
+**Link:** [https://doi.org/10.3390/geosciences16050200](https://doi.org/10.3390/geosciences16050200)
+**Published:** 2026-05-16
+**Abstract:** Radon (222Rn) and thoron (220Rn) are widely used to investigate diffuse degassing, fault-zone permeability, hydrothermal circulation, and subsurface unrest, but their signals are not direct proxies for a single process. This manuscript is a critical synthesis and methodological article that develops...
+**Tags:** #to-read #research-inbox
+
+---
+
+### A Study on the Characteristics of Reading Behavior in Korea Before and After COVID-19 (2026)
+**Authors:** Fang Liu, Sun Nam Kim
+**Link:** [https://doi.org/10.21732/skps.2026.122.59](https://doi.org/10.21732/skps.2026.122.59)
+**Published:** 2026-03-30
+**Abstract:** The purpose of this paper is to investigate the reading behavior that appeared in Korea before and after COVID-19. As a result of data analyses, there were five changes in Korean reading behavior through COVID-19. First, on-line media based reading culture appeared. This shift was visible from the f...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Mobile Learning Platforms for EFL and ESL Students’ English Reading Skills and Practices: A Systematic Literature Review of Empirical Studies from 2018 to 2025 (2026)
+**Authors:** Zibing Wang, M. Yunus, H. Hashim
+**Link:** [https://doi.org/10.26803/ijlter.25.3.11](https://doi.org/10.26803/ijlter.25.3.11)
+**Published:** 2026-03-30
+**Abstract:** With the development of technology in language education, the proliferation of mobile learning has transformed reading habits in EFL (English as a Foreign Language) and ESL (English as a Second Language) contexts. While various mobile platforms are increasingly being integrated into English reading ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Implementation of Mobile Library Services by the West Sulawesi Provincial Library and Archives Service in Motivating Students' Reading Interest in Mamuju Regency (2026)
+**Authors:** Basri Basri, Yuspiani Yuspiani, Andi Halimah et al.
+**Link:** [https://doi.org/10.35931/aq.v20i2.6427](https://doi.org/10.35931/aq.v20i2.6427)
+**Published:** 2026-03-14
+**Abstract:** Reading interest is a crucial factor in improving the quality of human resources. However, literacy rates in Indonesia remain low, particularly in remote areas. One innovation to address the access gap is mobile library services. This study evaluated the Sapa Mobile Library in Mamuju Regency, West S...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Culture-laden Extensive Reading through Team-based Mobile Learning: Effects on Intercultural Communicative Competence and Reading Motivation (2026)
+**Authors:** David Imamyartha, Eka Wahjuningsih, Areta Puspa et al.
+**Link:** [https://doi.org/10.17977/2502-471x.2291](https://doi.org/10.17977/2502-471x.2291)
+**Published:** 2026-05-27
+**Abstract:** With the advent of technology, cultural diversities encouraged language teachers in higher education to push the current pedagogical boundaries to seek the best fits for cultural learning. This study engaged with the pursuit of such pedagogies by experimenting with the integration of team-based mobi...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Using mobile devices to foster English reading motivation in early elementary education (2026)
+**Authors:** Konstantina Derveni, Radka Wildová
+**Link:** [https://doi.org/10.33902/spt.202644542](https://doi.org/10.33902/spt.202644542)
+**Published:** 2026-04-13
+**Abstract:** <jats:p xml:lang="tr"/>
+**Tags:** #to-read #research-inbox
+
+---
+
+### Consumer Behavior Toward Health‐Related Mobile Applications: A Hybrid Review and Future Agenda (2026)
+**Authors:** Omer Faruk Celebi, Ebru Tumer, N. Aksoy et al.
+**Link:** [https://doi.org/10.1002/cb.70153](https://doi.org/10.1002/cb.70153)
+**Published:** 2026-04-05
+**Abstract:** 
+ Mobile health (MH) has the potential to address many consumer challenges, but consumer responses to it remain varied. In this regard, the consumer's perspective on MH is becoming increasingly attractive to academia and business. This review aims to synthesize and analyze 103 studies from 2010 to 2...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Wikimpacts 1.0: a new global climate impact database based on automated information extraction from Wikipedia (2026)
+**Authors:** Ni Li, W. Thiery, Shorouq Zahra et al.
+**Link:** [https://doi.org/10.5194/nhess-26-2609-2026](https://doi.org/10.5194/nhess-26-2609-2026)
+**Published:** 2026-06-04
+**Abstract:** Abstract. Climate extremes like storms, heatwaves, wildfires, droughts and floods significantly threaten society and ecosystems. However, comprehensive data on the socio-economic impacts of climate extremes remains limited. Here we present Wikimpacts 1.0, a global climate impact database built by ex...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Multilingual Reference Need Assessment System for Wikipedia (2026)
+**Authors:** A. Baigutanova, F. Navas, Pablo Aragón et al.
+**Link:** [https://doi.org/10.1145/3774904.3792803](https://doi.org/10.1145/3774904.3792803)
+**Published:** 2026-03-17
+**Abstract:** Wikipedia is a critical source of information for millions of users across the Web. It serves as a key resource for large language models, search engines, question-answering systems, and other Web-based applications. In Wikipedia, content needs to be verifiable, meaning that readers can check that c...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Is a Document Educational or Just Wikipedia-Style? -- Pitfalls of Classifier-Based Quality Filtering (2026)
+**Authors:** Mateusz Klimaszewski, P. Andruszkiewicz
+**Link:** [https://www.semanticscholar.org/paper/f526dac6a83dcdcaf44dc0bd1924ed071deb3321](https://www.semanticscholar.org/paper/f526dac6a83dcdcaf44dc0bd1924ed071deb3321)
+**Published:** 2026-05-21
+**Abstract:** Classifier-based Quality Filtering has recently emerged as a fundamental technique in constructing pre-training corpora. The ability to deploy a single model that can replace or supplement a set of heuristics has proven effective across numerous Large Language Models. In this work, we expose a criti...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Capítulo 4. Cómo editar wikipedia con perspectiva de género (2026)
+**Authors:** Patricia Horrillo-Guerra
+**Link:** [https://doi.org/10.52495/c4.emcs.45.tam8](https://doi.org/10.52495/c4.emcs.45.tam8)
+**Published:** 2026-05-14
+**Abstract:** El capítulo aborda cómo editar Wikipedia desde una perspectiva de género, partiendo del reconocimiento de que, pese a ser una herramienta abierta y colaborativa, la enciclopedia reproduce desigualdades estructurales, especialmente en relación con la participación y la representación de las mujeres. ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Editorial governance under pressure: Wikipedia's revert dynamics during the 2024 US election (2026)
+**Authors:** Giuliano Formisano, Emmie Hine, Prathm Juneja et al.
+**Link:** [https://doi.org/10.1057/s41599-026-06810-2](https://doi.org/10.1057/s41599-026-06810-2)
+**Published:** 2026-05-13
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Statistics of music-themed articles in Ukrainian Wikipedia: thematic coverage, quality, and pageviews (2026)
+**Authors:** Andrii Bondarenko
+**Link:** [https://doi.org/10.15347/wjh/2026/wmua.021](https://doi.org/10.15347/wjh/2026/wmua.021)
+**Published:** 2026-04-17
+**Abstract:** The paper analyzes the thematic coverage, popularity, and quality of music-related articles in the Ukrainian Wikipedia. Two approaches are applied: statistical sampling of randomly selected articles and category-based analysis. The results show that the share of music articles in the overall corpus ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### WikiMAG: A Multi-Agent Guided Framework for Generating Structured Wikipedia-like Articles (2026)
+**Authors:** Xiuli Kang, Yinlong Xiao, Minghao Hu et al.
+**Link:** [https://doi.org/10.1609/aaai.v40i37.40404](https://doi.org/10.1609/aaai.v40i37.40404)
+**Published:** 2026-03-14
+**Abstract:** Wikipedia serves as the world's largest and most popular online reference encyclopedia, rich in structured knowledge and authoritative citations. Recently, numerous works have leveraged large language models to automatically generate Wikipedia-like articles. However, existing approaches primarily fo...
+**Tags:** #to-read #research-inbox
+
+---
+
+### WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata (2026)
+**Authors:** Basel Shbita, Pengyuan Li, A. Gentile
+**Link:** [https://www.semanticscholar.org/paper/3ae28a76e467a053607b44ea9c1c5db8918a2ea9](https://www.semanticscholar.org/paper/3ae28a76e467a053607b44ea9c1c5db8918a2ea9)
+**Published:** 2026-05-20
+**Abstract:** Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledge that is not directly observable in the image to answer correctly. We introduce WikiVQABench, a hum...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Multilingual and Cross-Lingual Citation Needed Detection on Wikipedia for Lower-Resource Languages (2026)
+**Authors:** Gerrit Quaremba, Amy Rechkemmer, E. Black et al.
+**Link:** [https://www.semanticscholar.org/paper/37f566e1057ffb42d4b84223d97f4d03bbc8faed](https://www.semanticscholar.org/paper/37f566e1057ffb42d4b84223d97f4d03bbc8faed)
+**Published:** 2026-05-29
+**Abstract:** In automated fact-checking (AFC), check-worthiness detection identifies claims requiring verification based on domain-specific criteria. On Wikipedia, this task instantiates as Citation Needed Detection (CND), which flags claims lacking supporting citations. However, existing research has largely ov...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Cross-Platform and Cross-Lingual Dynamics of Wikipedia Sharing and Contribution (2026)
+**Authors:** Akira Matsui
+**Link:** [https://doi.org/10.1609/icwsm.v20i1.42713](https://doi.org/10.1609/icwsm.v20i1.42713)
+**Published:** 2026-05-25
+**Abstract:** Wikipedia is a key knowledge source, but the literature suggests that attention from social media platforms rarely leads to edits. This research examines this relationship using a 15-year dataset of links from three major social media platforms (Twitter, Reddit, and Discord) that contains the link-s...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Patient-Centered Online Health Information on Diverticulitis: Assessing the Readability, Content, and Overall Quality (2026)
+**Authors:** Benjamin Gallant, Andrew Hu, Kaitlyn Oldewurtel et al.
+**Link:** [https://doi.org/10.1016/j.amjsurg.2026.117030](https://doi.org/10.1016/j.amjsurg.2026.117030)
+**Published:** 2026-05-01
+**Abstract:** Background: This study assessed the quality, content, and readability of patient-centered online health information about diverticulitis. Methods: Five common diverticulitis-related terms were searched on Google. The first 50 websites for each term were reviewed. Popularity, quality, core content, a...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Comparing the readability of online patient education materials for LASIK and cataract surgery. (2026)
+**Authors:** David Mothy, A. Reddy, H. Choudhry et al.
+**Link:** [https://doi.org/10.1007/s10792-026-04066-y](https://doi.org/10.1007/s10792-026-04066-y)
+**Published:** 2026-04-02
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Online patient education in breast reconstruction: A systematic review and meta-analysis of readability, quality, usability, and cultural representation. (2026)
+**Authors:** Antoinette T. Nguyen, Rebeka A. Dejenie, Katherine Foote et al.
+**Link:** [https://doi.org/10.1016/j.bjps.2026.05.015](https://doi.org/10.1016/j.bjps.2026.05.015)
+**Published:** 2026-05-01
+**Abstract:** BACKGROUND
+Online patient education materials (OPEMs) are increasingly relied upon by patients seeking information on breast reconstruction. However, the readability, quality, and cultural inclusivity of these resources remain unclear.
+
+
+METHODS
+Following PRISMA guidelines, a systematic review and m...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Peripheral Nerve Disorders and Treatment: Assessing the Readability of Online Patient Resources. (2026)
+**Authors:** Kishan S. Shah, S. Akhtar, Eric L. Wan et al.
+**Link:** [https://doi.org/10.1097/sap.0000000000004737](https://doi.org/10.1097/sap.0000000000004737)
+**Published:** 2026-03-30
+**Abstract:** BACKGROUND
+Peripheral nerve (PN) disorders are common, yet the patient journey from diagnosis to surgery and recovery can be lengthy and difficult. Many patients rely on online resources during this process, and their understanding of the disease process and treatments may influence management and o...
+**Tags:** #to-read #research-inbox
+
+---
+
+### A Patient-centered Approach to Analyzing the Quality, Credibility, and Readability of Spanish-language Online Patient Educational Materials on Pediatric Scoliosis. (2026)
+**Authors:** J. K. Lopez, Diego G. Alegre, Alejandro M. Holle et al.
+**Link:** [https://doi.org/10.5435/jaaos-d-25-01534](https://doi.org/10.5435/jaaos-d-25-01534)
+**Published:** 2026-06-04
+**Abstract:** INTRODUCTION
+Ethnic, racial, and socioeconomic disparities are well-documented in orthopaedics, including pediatric scoliosis. Spanish-speaking patients face compounding disparities in accessing linguistically and culturally concordant physician-patient interactions and patient resources. This study...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Readability of Online Patient Education Materials on Autism: An Invisible Barrier to Information Access (2026)
+**Authors:** P. Algedik, O. Kocaman
+**Link:** [https://doi.org/10.35365/ctjpp.26.1.11](https://doi.org/10.35365/ctjpp.26.1.11)
+**Published:** 2026-03-25
+**Abstract:** This study aimed to evaluate the readability of online patient education materials related to Autism Spectrum Disorder (ASD) and determine how comprehensible these resources are for parents. On January 26, 2025, English-language materials were identified using the Google search engine with the keywo...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Investigating the Readability, Visual Design, and Quality of Online Written Pharmacogenomics Health Information for Health Consumers in Australia (2026)
+**Authors:** M. J. Giblett, Y. Babikian, D. J. Jhala et al.
+**Link:** [https://doi.org/10.64898/2026.05.27.26354169](https://doi.org/10.64898/2026.05.27.26354169)
+**Published:** 2026-05-29
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Online patient education resources in bariatric surgery: a systematic evaluation of quality, readability, transparency, and representation (2026)
+**Authors:** Abdulrahman Alomar, Reza Shahriarirad, Omar M. Ghanem et al.
+**Link:** [https://doi.org/10.1007/s00464-026-12845-y](https://doi.org/10.1007/s00464-026-12845-y)
+**Published:** 2026-05-04
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### The Online Landscape of Brazilian Butt Lift Information: Readability, Quality, and Traffic Analysis (2026)
+**Authors:** E. Bertulla, E. Raposio
+**Link:** [https://doi.org/10.1093/asjof/ojag106](https://doi.org/10.1093/asjof/ojag106)
+**Published:** 2026-06-05
+**Abstract:** 
+ 
+ 
+ The Brazilian Butt Lift (BBL) has become increasingly popular yet remains one of the highest-risk aesthetic procedures. As patients frequently use online sources to understand medical procedures, clear and reliable web-based information is essential.
+ 
+ 
+ 
+ This study evaluates the readability...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Online Resources for Migraine Surgery: Readability and Patient Understanding (2026)
+**Authors:** E. Raposio, E. Bertulla
+**Link:** [https://doi.org/10.1097/GOX.0000000000007747](https://doi.org/10.1097/GOX.0000000000007747)
+**Published:** 2026-05-01
+**Abstract:** Background: Migraine is a prevalent neurological disorder that affects quality of life. Surgery is a specialized option for patients with chronic or refractory migraine and requires understanding complex information. As patients rely on online resources, health literacy—the ability to obtain, unders...
+**Tags:** #to-read #research-inbox
+
+## New papers — 2026-06-12
+
 ### InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking (2026)
 **Authors:** KanJun Lee, Yuxuan Huang, Zhiyuan He et al.
 **Link:** [https://www.semanticscholar.org/paper/cc09e60de261a3b15e61d5223acd7b89c35af12f](https://www.semanticscholar.org/paper/cc09e60de261a3b15e61d5223acd7b89c35af12f)
