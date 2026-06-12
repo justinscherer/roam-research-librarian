@@ -110,35 +110,8 @@ function prependToFile(filePath, content) {
 
 // ── Roam ──────────────────────────────────────────────────────────────────────
 
-function buildRoamPaperBlock(paper) {
-  const title = paper.title || 'Untitled';
-  const year = paper.year || '?';
-  const authors = formatAuthors(paper.authors);
-  const url = buildUrl(paper);
-  const published = paper.publicationDate || String(paper.year) || 'Unknown';
-  const abstract = truncate(paper.abstract, ABSTRACT_TRUNCATE);
-
-  return {
-    string: `**[[${title}]]** (${year}) — ${authors}`,
-    children: [
-      { string: `📎 [${url}](${url})` },
-      { string: `🗓️ Published: ${published}` },
-      { string: `📄 ${abstract}` },
-      { string: '#[[To Read]] #[[Research Inbox]]' },
-    ],
-  };
-}
-
-async function writeToRoam(papers, runDate) {
+async function appendBlocks(payload) {
   const endpoint = `${ROAM_BACKEND_URL}/api/graph/${ROAM_GRAPH_NAME}/append-blocks`;
-
-  const payload = {
-    location: {
-      page: { title: 'Papers Inbox' },
-      'nest-under': { string: `**New papers — ${runDate}**` },
-    },
-    'append-data': papers.map(buildRoamPaperBlock),
-  };
 
   const res = await fetch(endpoint, {
     method: 'POST',
@@ -153,6 +126,41 @@ async function writeToRoam(papers, runDate) {
     const body = await res.text();
     console.error(`Roam API error ${res.status}: ${body}`);
     process.exit(1);
+  }
+}
+
+async function writeToRoam(papers, runDate) {
+  // One call: add all title blocks to Papers Inbox
+  await appendBlocks({
+    location: {
+      page: { title: 'Papers Inbox' },
+      'nest-under': { string: `**New papers — ${runDate}**` },
+    },
+    'append-data': papers.map((p) => ({
+      string: `**[[${p.title || 'Untitled'}]]** (${p.year || '?'}) — ${formatAuthors(p.authors)}`,
+    })),
+  });
+
+  await sleep(2000);
+
+  // One call per paper: write metadata into the paper's own page
+  for (const paper of papers) {
+    const title = paper.title || 'Untitled';
+    const url = buildUrl(paper);
+    const published = paper.publicationDate || String(paper.year) || 'Unknown';
+    const abstract = truncate(paper.abstract, ABSTRACT_TRUNCATE);
+
+    await appendBlocks({
+      location: { page: { title } },
+      'append-data': [
+        { string: `📎 [${url}](${url})` },
+        { string: `🗓️ Published: ${published}` },
+        { string: `📄 ${abstract}` },
+        { string: '#[[To Read]] #[[Research Inbox]]' },
+      ],
+    });
+
+    await sleep(2000);
   }
 }
 
