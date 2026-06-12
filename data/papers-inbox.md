@@ -1,5 +1,95 @@
 ## New papers — 2026-06-12
 
+### Enhancing Cognitive Accessibility in Mobile Apps via LLM-driven Redundant Entry Reduction (2026)
+**Authors:** Meng Zhang, Yongju Xiong, Xianyou Cheng et al.
+**Link:** [https://doi.org/10.1145/3816705](https://doi.org/10.1145/3816705)
+**Published:** 2026-05-22
+**Abstract:** Currently, mobile applications (apps) have become indispensable in our daily lives, supporting activities such as online shopping, scheduling, and health management. However, users frequently encounter redundant information entries, where identical data like dates, addresses, or preferences must be ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Exploring Halal Mobile App Usage Among Muslim University Students in A Multicultural Society (2026)
+**Authors:** Pg Siti Rozaidah Pg Hj Idris
+**Link:** [https://doi.org/10.31098/jhasib.v4i1.2303](https://doi.org/10.31098/jhasib.v4i1.2303)
+**Published:** 2026-05-29
+**Abstract:** This study explores how Muslim university students in multicultural societies use Halal mobile applications, with particular attention to trust formation, usability, and religious identity. Employing a qualitative interpretivist approach, this study conducted semi structured email interviews with 24...
+**Tags:** #to-read #research-inbox
+
+---
+
+### AUMOR: Augmented-Reality-Based Mobile Application for University Orientation (2026)
+**Authors:** Muhammad Nadeem, Melinda Oroszlányová, Pauly Awad et al.
+**Link:** [https://doi.org/10.3390/mti10060061](https://doi.org/10.3390/mti10060061)
+**Published:** 2026-05-29
+**Abstract:** Fresh engineering students are often required to absorb a large amount of new information within a short period of time, which can be academically and emotionally challenging. To address this challenge, this study introduces AUMOR, a mobile application designed to enhance university orientation by d...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Developing a UXR Point of View for Cognitive Accessibility in Mobile Learning with Generative AI (2026)
+**Authors:** Fatima A Muazu, F. Adedoyin, Huseyin Dogan et al.
+**Link:** [https://www.semanticscholar.org/paper/1347c8973d7d42835b6069205ffc32b034e4468a](https://www.semanticscholar.org/paper/1347c8973d7d42835b6069205ffc32b034e4468a)
+**Published:** 2026-05-29
+**Abstract:** This study investigates how UX research (UXR) principles, combined with Large Language Model (LLM)-supported analysis, can be used to improve the quality of requirements for mobile learning systems designed for learners with cognitive disabilities. Using the UXR Point-of-View (PoV) pyramid as a meth...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Evaluating user experience of a mobile website and redesigning its user interface using goal-directed design method (2026)
+**Authors:** Aang Subiyakto, Muhammad R. Alghifari, Nuryasin N. et al.
+**Link:** [https://doi.org/10.11591/ijict.v15i2.pp634-643](https://doi.org/10.11591/ijict.v15i2.pp634-643)
+**Published:** 2026-06-01
+**Abstract:** This study evaluated the usability of the user interface (UI) of a mobile website using its user experience (UX) perspectives. The website serves as an information portal intended for access via smartphones and other handheld devices. The objective of the study was to assess the usability of its cur...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Touching spaces: interactive physicalization for exploring spatial information (2026)
+**Authors:** Fateme Yazdanbakhsh, Hessam Djavaherpour, P. Dawson et al.
+**Link:** [https://doi.org/10.1007/s00371-026-04492-0](https://doi.org/10.1007/s00371-026-04492-0)
+**Published:** 2026-05-27
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Digital Inclusion Evaluation: A User Experience Study of Praja Mobile among Elderly and Adult Users (2026)
+**Authors:** Ida Ayu Putu Dewi Pradnyani, Made Dandy Nugraha Gunarsa, Yuvensius Hugolinus Haman et al.
+**Link:** [https://doi.org/10.32520/stmsi.v15i5.5869](https://doi.org/10.32520/stmsi.v15i5.5869)
+**Published:** 2026-05-26
+**Abstract:** This study aims to evaluate the user experience of the Praja Mobile application among two age groups, namely adults and elderly users, as an effort to assess the level of digital inclusion. The research employed a quantitative descriptive approach using the User Experience Questionnaire (UEQ) instru...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Quantifying airborne vessel noise on large rivers: A novel approach combining acoustic drifters and machine learning. (2026)
+**Authors:** Zihang Huang, Teng Fei, Jing Huang
+**Link:** [https://doi.org/10.1016/j.envpol.2026.128047](https://doi.org/10.1016/j.envpol.2026.128047)
+**Published:** 2026-06-01
+**Abstract:** Vessel noise in large rivers poses a growing threat to riparian ecosystems and human communities, yet its large-scale airborne distribution remains poorly monitored. This study introduces an innovative framework combining mobile observations with machine learning. We first conducted extensive measur...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Single-Cell and Spatial Transcriptomics in Plants: From Cell States to Inter-Tissue Coordination. (2026)
+**Authors:** D. Phua, Xiaohui Li, Trevor M. Nolan
+**Link:** [https://doi.org/10.1093/jxb/erag241](https://doi.org/10.1093/jxb/erag241)
+**Published:** 2026-05-23
+**Abstract:** Plant development and physiological responses emerge from coordinated interactions between tissues, ensuring that cell behaviors, such as division, differentiation, and environmental responses, are integrated at the organ scale. This integration is critical because plant cells are constrained by cel...
+**Tags:** #to-read #research-inbox
+
+---
+
+### 6G-Core-in-the-Loop: Enabling Service and Network Orchestration in a Cloud-Native Ecosystem (2026)
+**Authors:** Michail Dalgitsis, Eftychia G. Datsika, Cristina Santana Casillas et al.
+**Link:** [https://doi.org/10.1109/MCOMSTD.2026.3657234](https://doi.org/10.1109/MCOMSTD.2026.3657234)
+**Published:** 2026-06-01
+**Abstract:** As 6G networks emerge, the boundaries between communication infrastructure and applications are rapidly dissolving, giving rise to an integrated, cloud-native ecosystem where services and network functions coexist and evolve together. Central to this transformation is the mobile core, which acts as ...
+**Tags:** #to-read #research-inbox
+
+## New papers — 2026-06-12
+
 ### Radon and Thoron in Volcanic, Tectonic, and Hydrothermal Systems: A Critical Synthesis and Reduced Inference Framework (2026)
 **Authors:** Sebastiano Ettore Spoto
 **Link:** [https://doi.org/10.3390/geosciences16050200](https://doi.org/10.3390/geosciences16050200)
