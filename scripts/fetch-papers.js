@@ -104,6 +104,43 @@ function prependToFile(filePath, content) {
   fs.writeFileSync(filePath, content + '\n' + existing, 'utf8');
 }
 
+// ── Mock data (USE_MOCK_DATA=true bypasses the API for end-to-end testing) ────
+
+const MOCK_PAPERS = [
+  {
+    paperId: 'mock-001',
+    title: 'How People Seek Information on Mobile Devices',
+    year: 2026,
+    publicationDate: '2026-04-10',
+    authors: [{ name: 'Alice Nakamura' }, { name: 'Ben Osei' }, { name: 'Clara Voss' }, { name: 'David Park' }],
+    externalIds: { DOI: '10.1234/mock.001' },
+    abstract: 'This paper examines information-seeking patterns on smartphones, finding that users prefer short, scannable content over long-form text when browsing on mobile interfaces.',
+  },
+  {
+    paperId: 'mock-002',
+    title: 'Curiosity and Exploration in Digital Reading Environments',
+    year: 2026,
+    publicationDate: '2026-03-22',
+    authors: [{ name: 'Fatima Al-Hassan' }],
+    externalIds: {},
+    abstract: null,
+  },
+  {
+    paperId: 'mock-003',
+    title: 'Online Reading Comprehension Across Device Contexts',
+    year: 2026,
+    publicationDate: '2026-05-01',
+    authors: [{ name: 'George Lindqvist' }, { name: 'Hannah Choi' }],
+    externalIds: { DOI: '10.5678/mock.003' },
+    abstract: 'A large-scale study of reading comprehension comparing desktop and mobile contexts, with implications for interface design and content formatting in digital learning environments.',
+  },
+];
+
+async function fetchMockPapers() {
+  console.log('  [mock] returning hardcoded papers');
+  return MOCK_PAPERS;
+}
+
 // ── Fetch ─────────────────────────────────────────────────────────────────────
 
 async function fetchTopic(topic, dateRange) {
@@ -146,23 +183,34 @@ async function main() {
   const allPapers = [];
   const seenInRun = new Set();
 
-  for (const topic of SEARCH_TOPICS) {
-    console.log(`Querying: "${topic}"`);
-    try {
-      const papers = await fetchTopic(topic, dateRange);
-      console.log(`  → ${papers.length} results`);
-      for (const paper of papers) {
-        if (!paper.paperId) continue;
-        if (seenSet.has(paper.paperId)) continue;
-        if (seenInRun.has(paper.paperId)) continue;
-        seenInRun.add(paper.paperId);
-        allPapers.push(paper);
-      }
-    } catch (err) {
-      console.error(`  Error fetching "${topic}": ${err.message}`);
+  if (process.env.USE_MOCK_DATA === 'true') {
+    console.log('[mock mode] Skipping API calls.');
+    const papers = await fetchMockPapers();
+    for (const paper of papers) {
+      if (!paper.paperId) continue;
+      if (seenSet.has(paper.paperId)) continue;
+      seenInRun.add(paper.paperId);
+      allPapers.push(paper);
     }
+  } else {
+    for (const topic of SEARCH_TOPICS) {
+      console.log(`Querying: "${topic}"`);
+      try {
+        const papers = await fetchTopic(topic, dateRange);
+        console.log(`  → ${papers.length} results`);
+        for (const paper of papers) {
+          if (!paper.paperId) continue;
+          if (seenSet.has(paper.paperId)) continue;
+          if (seenInRun.has(paper.paperId)) continue;
+          seenInRun.add(paper.paperId);
+          allPapers.push(paper);
+        }
+      } catch (err) {
+        console.error(`  Error fetching "${topic}": ${err.message}`);
+      }
 
-    await sleep(1000);
+      await sleep(1000);
+    }
   }
 
   if (allPapers.length === 0) {
