@@ -24,7 +24,7 @@ const OUTPUT_PATH = path.join(__dirname, '../data/papers-inbox.md');
 const SS_BASE = 'https://api.semanticscholar.org/graph/v1/paper/search';
 const FIELDS = 'paperId,title,authors,year,abstract,externalIds,openAccessPdf,publicationDate';
 
-const ROAM_BACKEND_URL = process.env.ROAM_BACKEND_URL || 'https://roamresearch.com';
+const ROAM_BACKEND_URL = process.env.ROAM_BACKEND_URL || 'https://append-api.roamresearch.com';
 const ROAM_GRAPH_NAME  = process.env.ROAM_GRAPH_NAME;
 const ROAM_API_TOKEN   = process.env.ROAM_API_TOKEN;
 
@@ -130,17 +130,14 @@ function buildRoamPaperBlock(paper) {
 }
 
 async function writeToRoam(papers, runDate) {
-  const endpoint = `${ROAM_BACKEND_URL}/api/graph/${ROAM_GRAPH_NAME}/write`;
+  const endpoint = `${ROAM_BACKEND_URL}/api/graph/${ROAM_GRAPH_NAME}/append-blocks`;
 
   const payload = {
-    action: 'append-blocks',
-    'page-title': 'Papers Inbox',
-    blocks: [
-      {
-        string: `**New papers — ${runDate}**`,
-        children: papers.map(buildRoamPaperBlock),
-      },
-    ],
+    location: {
+      page: { title: 'Papers Inbox' },
+      'nest-under': { string: `**New papers — ${runDate}**` },
+    },
+    'append-data': papers.map(buildRoamPaperBlock),
   };
 
   const res = await fetch(endpoint, {
