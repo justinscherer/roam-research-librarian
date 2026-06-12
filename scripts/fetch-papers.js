@@ -24,7 +24,7 @@ const OUTPUT_PATH = path.join(__dirname, '../data/papers-inbox.md');
 const SS_BASE = 'https://api.semanticscholar.org/graph/v1/paper/search';
 const FIELDS = 'paperId,title,authors,year,abstract,externalIds,openAccessPdf,publicationDate';
 
-const ROAM_BACKEND_URL = process.env.ROAM_BACKEND_URL || 'https://roam-research.com';
+const ROAM_BACKEND_URL = process.env.ROAM_BACKEND_URL || 'https://roamresearch.com';
 const ROAM_GRAPH_NAME  = process.env.ROAM_GRAPH_NAME;
 const ROAM_API_TOKEN   = process.env.ROAM_API_TOKEN;
 
