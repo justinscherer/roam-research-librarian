@@ -26,6 +26,7 @@ jobs:
       - name: Fetch papers
         run: node scripts/fetch-papers.js
         env:
+          USE_MOCK_DATA: 'true'
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
 
       - name: Commit updated data files
