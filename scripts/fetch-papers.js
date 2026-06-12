@@ -8,13 +8,12 @@ const path = require('path');
 
 const SEARCH_TOPICS = [
   'information foraging mobile interfaces',
-  'reading comprehension digital text mobile',
   'epistemic curiosity information seeking behavior',
-  'web content learning reading experience',
   'wikipedia user behavior reading knowledge seeking',
 ];
 
 const RESULTS_PER_QUERY = 10;
+const MAX_TOTAL_PAPERS = 10;
 const DATE_WINDOW_DAYS = 90;
 const ABSTRACT_TRUNCATE = 300;
 
@@ -230,23 +229,24 @@ async function main() {
     return;
   }
 
-  console.log(`Writing ${allPapers.length} new paper(s) to ${OUTPUT_PATH}`);
+  const papers = allPapers.slice(0, MAX_TOTAL_PAPERS);
+  console.log(`Writing ${papers.length} new paper(s) to ${OUTPUT_PATH}`);
 
-  const section = buildMarkdownSection(allPapers, runDate);
+  const section = buildMarkdownSection(papers, runDate);
   prependToFile(OUTPUT_PATH, section);
 
-  const newIds = [...seenIds, ...allPapers.map((p) => p.paperId)];
+  const newIds = [...seenIds, ...papers.map((p) => p.paperId)];
   saveSeenPapers(newIds);
 
   if (ROAM_GRAPH_NAME) {
-    console.log(`Writing ${allPapers.length} paper(s) to Roam graph "${ROAM_GRAPH_NAME}"...`);
-    await writeToRoam(allPapers, runDate);
+    console.log(`Writing ${papers.length} paper(s) to Roam graph "${ROAM_GRAPH_NAME}"...`);
+    await writeToRoam(papers, runDate);
     console.log('Roam write complete.');
   } else {
     console.log('ROAM_GRAPH_NAME not set — skipping Roam write.');
   }
 
-  console.log(`Done. seen-papers.json now has ${newIds.length} entries.`);
+  console.log(`Done. seen-papers.json now has ${newIds.length} entries.${allPapers.length > MAX_TOTAL_PAPERS ? ` (${allPapers.length - MAX_TOTAL_PAPERS} paper(s) deferred to next run)` : ''}`);
 }
 
 main().catch((err) => {
