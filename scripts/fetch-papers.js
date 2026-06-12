@@ -7,11 +7,11 @@ const path = require('path');
 // ── Configuration ─────────────────────────────────────────────────────────────
 
 const SEARCH_TOPICS = [
-  'information seeking mobile web',
-  'mobile reading behavior',
-  'Wikipedia',
-  'online readability',
-  'curiosity',
+  'information foraging mobile interfaces',
+  'reading comprehension digital text mobile',
+  'epistemic curiosity information seeking behavior',
+  'web content learning reading experience',
+  'wikipedia user behavior reading knowledge seeking',
 ];
 
 const RESULTS_PER_QUERY = 10;
