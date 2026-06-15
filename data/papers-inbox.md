@@ -1,3 +1,97 @@
+## New papers — 2026-06-15
+
+### Navigating Knowledge: Effects of State Curiosity on Children's Word Learning and Information Seeking (2026)
+**Authors:** Anna Caunt, Shaun Dordoy, Rana Abu‐Zhaya et al.
+**Link:** [https://doi.org/10.1111/desc.70226](https://doi.org/10.1111/desc.70226)
+**Published:** 2026-05-19
+**Abstract:** ABSTRACT Early learning takes place within complex, multimodal environments where curiosity plays a critical role in guiding exploratory behaviors and supporting cognitive development. While trait curiosity shapes children's early learning experiences, state curiosity is context‐dependent fostering ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Task difficulty and knowledge exploration among secondary school students: the mediating role of epistemic emotions (2026)
+**Authors:** Jaya Shukla, Ram Manohar Singh
+**Link:** [https://doi.org/10.1007/s11409-026-09475-z](https://doi.org/10.1007/s11409-026-09475-z)
+**Published:** 2026-06-02
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### "The architecture of curiosity: How spatial configuration influences affect, exploration, and memory". (2026)
+**Authors:** Simin Nasiri, S. Bafna, Thackery I. Brown
+**Link:** [https://doi.org/10.1016/j.neuropsychologia.2026.109504](https://doi.org/10.1016/j.neuropsychologia.2026.109504)
+**Published:** 2026-05-23
+**Abstract:** Curiosity is a key driver of exploration and learning. Prior empirical studies have largely focused on internal mechanisms of curiosity and not its interaction with the environment. This study broadens that view by examining how spatial configuration-specifically architectural enclosure-influences p...
+**Tags:** #to-read #research-inbox
+
+---
+
+### What Type of Inference is Active Inference? (2026)
+**Authors:** Wouter W. L. Nuijten, Mykola Lukashchuk, Thijs van de Laar et al.
+**Link:** [https://www.semanticscholar.org/paper/2c33610907c83a0683483b418a52c9b5cf5e0e2f](https://www.semanticscholar.org/paper/2c33610907c83a0683483b418a52c9b5cf5e0e2f)
+**Published:** 2026-06-03
+**Abstract:** Active inference casts decision-making as inference, with the Expected Free Energy (EFE) unifying goal-directed and information-seeking behavior. Recent work showed that EFE minimization can be written as Variational Free Energy (VFE) minimization on a generative model augmented with epistemic prior...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Children's learning preferences for platforms and human informants. (2026)
+**Authors:** Julieta Goldstein, C. Gattei, C. Calero
+**Link:** [https://doi.org/10.1038/s41598-026-56368-x](https://doi.org/10.1038/s41598-026-56368-x)
+**Published:** 2026-06-03
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Peningkatan Kesadaran Kesehatan Remaja melalui Platform Pembelajaran Berbasis Web di SMAN 2 Majalaya (2026)
+**Authors:** Rosmalina Rosmalina, S. Holida, N. Putri et al.
+**Link:** [https://doi.org/10.26714/jsm.8.2.2026.287-300](https://doi.org/10.26714/jsm.8.2.2026.287-300)
+**Published:** 2026-05-31
+**Abstract:** Adolescent health is an important component of national health development; however, it still faces challenges such as low health literacy, risky behaviors, and stigma related to reproductive and mental health. This community service program utilizes an interactive web-based learning platform to imp...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Breaking the Information Silo: Semantic Personas for Cross-Domain Recommendation (2026)
+**Authors:** J. Mayo, Moshe Unger, Konstantin Bauman
+**Link:** [https://www.semanticscholar.org/paper/4f9e08d749a52480bb8d99467d955497d1486de5](https://www.semanticscholar.org/paper/4f9e08d749a52480bb8d99467d955497d1486de5)
+**Published:** 2026-06-01
+**Abstract:** Digital platforms increasingly operate as isolated information silos, limiting their ability to construct comprehensive user representations across domains. Cross-domain recommender systems seek to overcome this limitation by transferring knowledge from a source domain to a target domain, yet most e...
+**Tags:** #to-read #research-inbox
+
+---
+
+### MECHANISMS SHAPING THE DIGITAL RIGHTS AND DATA PRIVACY AMONG KERALA YOUTH (2026)
+**Authors:** S. D. Babu, Shebin Philip John
+**Link:** [https://doi.org/10.29121/shodhvichar.v2.i1.2026.98](https://doi.org/10.29121/shodhvichar.v2.i1.2026.98)
+**Published:** 2026-05-28
+**Abstract:** Since social networking has become an essential part of everyone's life, people have been increasingly wondering if teenagers have fully understood their rights online and their private data. The study investigates the level of digital rights and data privacy awareness, observed behavior in the shar...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Kalmer, a specific based-App intervention for the treatment of Non-suicidal self-injury (NSSI): a technical and usability study in a non-clinical population (2026)
+**Authors:** Mónica Conesa Giménez, Irene Jaén, Daniel Vega et al.
+**Link:** [https://doi.org/10.3389/fdgth.2026.1794576](https://doi.org/10.3389/fdgth.2026.1794576)
+**Published:** 2026-06-03
+**Abstract:** 
+ 
+ Non-suicidal self-injury (NSSI), defined as the deliberate infliction of harm to oneself without suicidal intent, poses a significant and growing mental health concern worldwide, particularly among adolescents and young adults. This behavior is associated with considerable emotional, social, and...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Mapping the engagement of architecture and design disciplines with social media: a scientometric and bibliometric analysis (2026)
+**Authors:** Gulden Gumusburun Ayalp, Irem Kose
+**Link:** [https://doi.org/10.1108/ohi-09-2025-0331](https://doi.org/10.1108/ohi-09-2025-0331)
+**Published:** 2026-05-28
+**Abstract:** 
+ 
+ This study examines the engagement of architecture and design disciplines with social media (EoADSM) through a scientometric and bibliometric lens. Although social media is central to architectural discourse and public engagement, its academic and research-oriented use lacks a holistic, data-dri...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-06-12
 
 ### Enhancing Cognitive Accessibility in Mobile Apps via LLM-driven Redundant Entry Reduction (2026)
