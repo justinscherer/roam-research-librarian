@@ -1,3 +1,93 @@
+## New papers — 2026-06-22
+
+### Mobile Human-Computer Interaction: Trends, Challenges, and Future Directions in Enhancing User Experience, Adaptive Systems, and Intelligent Mobile Interfaces (2026)
+**Authors:** Yasir Salih, Dede Irman Pirdaus, Rifki Saefullah
+**Link:** [https://doi.org/10.46336/ijmsc.v4i2.319](https://doi.org/10.46336/ijmsc.v4i2.319)
+**Published:** 2026-06-10
+**Abstract:** Mobile human–computer interaction (HCI) has become a critical area in modern information systems due to the rapid growth of mobile technologies and intelligent applications. This study aims to analyze current trends, identify key challenges, and explore future directions in mobile HCI, particularly ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### A Mobile Application and Hybrid Hospital Information Exchange System to Improve Healthcare Access for Persons with Disabilities in Thailand (2026)
+**Authors:** Piya Sirilak, P. Maneechot, P. Muneesawang et al.
+**Link:** [https://doi.org/10.3390/informatics13060090](https://doi.org/10.3390/informatics13060090)
+**Published:** 2026-06-16
+**Abstract:** Persons with Disabilities (PWDs) face persistent barriers to healthcare access, welfare services, and timely medical assistance, particularly where hospital information is fragmented across institutions. In Thailand, these challenges are exacerbated by heterogeneous Hospital Information Systems (HIS...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Fintech-Enabled Payment Solutions in Omnichannel Retail: Trust, Transaction Behavior and Digital Financial Interfaces (2026)
+**Authors:** Szilárd Malatyinszki
+**Link:** [https://doi.org/10.31875/2755-8398.2026.02.06](https://doi.org/10.31875/2755-8398.2026.02.06)
+**Published:** 2026-06-17
+**Abstract:** This study examines fintech-enabled payment solutions in omnichannel retail as consumer-facing financial technologies that shape transaction behavior, trust formation, and the functioning of digital financial ecosystems. The study draws conceptually on digital payment adoption research, trust-based ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Collaborative Optimization of Human–Computer Interaction Efficiency and Cognitive Load in Mobile Auditing (2026)
+**Authors:** Honglin Zhang
+**Link:** [https://doi.org/10.3991/ijim.v20i11.62126](https://doi.org/10.3991/ijim.v20i11.62126)
+**Published:** 2026-06-10
+**Abstract:** Mobile auditing has been increasingly recognized as a critical direction in the digital transformation of auditing practices. However, field auditing scenarios are constrained by limited device resources, sensitive data privacy requirements, unstable network conditions, and elevated cognitive load a...
+**Tags:** #to-read #research-inbox
+
+---
+
+### AGILE IMPLEMENTATION IN MOBILE POINT OF SALE SYSTEM DEVELOPMENT FOR BUSINESS DIGITALIZATION (2026)
+**Authors:** Yudha Herlambang Cahya Pratama Herlambang, Farhan Abimanyu Firmansyah, Laqma Dica Fitrani
+**Link:** [https://doi.org/10.34288/jri.v8i3.519](https://doi.org/10.34288/jri.v8i3.519)
+**Published:** 2026-06-16
+**Abstract:** The development of information technology drives the need for a flexible, efficient, and easy-to-use Point of Sale (POS) system to support retail business operations. This study aims to design and develop a mobile-based POS application using Agile methods to improve the effectiveness of transaction ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### STAR: A Privacy-Preserving, Energy-Efficient Edge AI Framework for Human Activity Recognition via Wi-Fi CSI in Mobile and Pervasive Computing Environments (2026)
+**Authors:** Kexing Liu, Qiang Zhao, Rui Wang et al.
+**Link:** [https://doi.org/10.3390/s26123692](https://doi.org/10.3390/s26123692)
+**Published:** 2026-06-10
+**Abstract:** Human activity recognition (HAR) using Wi-Fi channel state information (CSI) offers a privacy-preserving and contactless sensing modality suitable for smart homes, healthcare monitoring, and pervasive mobile Internet of Things (IoT) environments. However, existing CSI-based HAR approaches often suff...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Can Dominant Architectural Culture Influence Cognitive Processes? Architectural Intelligence and AI-Assisted Evaluation (2026)
+**Authors:** Stephen M. Peña, N. Salingaros
+**Link:** [https://doi.org/10.3390/buildings16122404](https://doi.org/10.3390/buildings16122404)
+**Published:** 2026-06-17
+**Abstract:** The concept of technological singularity is discussed here in the context of architecture (of buildings, not software). This is the point at which non-human intelligence is conjectured to surpass ordinary human cognitive limits. Empirically constrained AI may already offer a useful corrective to mai...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Is Digital Reading Resilient to Air Pollution? (2026)
+**Authors:** Lizhen Wang, Jinyang Zheng, Yongjun Li et al.
+**Link:** [https://doi.org/10.1287/isre.2023.0565](https://doi.org/10.1287/isre.2023.0565)
+**Published:** 2026-06-15
+**Abstract:** Air pollution imposes significant cognitive strain and economic costs, yet its effects on digitally mediated, cognitively demanding activities remain underexplored. We examine its impact on digital reading, a context where key digital affordances—ubiquitous access, low switching costs, and personali...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Research on English reading comprehension level test and personalized recommendation based on Transformer (2026)
+**Authors:** Hong Duan
+**Link:** [https://doi.org/10.65102/is20261123](https://doi.org/10.65102/is20261123)
+**Published:** 2026-06-10
+**Abstract:** In the globalization background, the requirement for intelligent evaluation and customized enhancement of English reading comprehension—a core ability for cross-cultural communication—has been becoming more and more pressing. Traditional assessment approaches, which depend on manual score-giving and...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Development of an Interactive Climate Change Education Platform for Rural Communities: Engaging Isoka, Zambia in Sustainable Environment Practices (2026)
+**Authors:** David Mubanga, M. Mupeta
+**Link:** [https://doi.org/10.62225/2583049x.2026.6.3.6414](https://doi.org/10.62225/2583049x.2026.6.3.6414)
+**Published:** 2026-06-09
+**Abstract:** Climate change poses significant threats to rural communities around the world. Climate education is crucial for building resilience and promoting sustainable livelihoods. This study aims to develop an interactive climate change educational platform to address the needs of communities in Zambia. The...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-06-15
 
 ### Navigating Knowledge: Effects of State Curiosity on Children's Word Learning and Information Seeking (2026)
