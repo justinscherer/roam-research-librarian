@@ -1,3 +1,78 @@
+## New papers — 2026-06-29
+
+### Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen? (2026)
+**Authors:** Li Gu, Zihuan Jiang, Linqiang Guo et al.
+**Link:** [https://www.semanticscholar.org/paper/690338b08cd66ab32d4ec201c242b2573d4206e3](https://www.semanticscholar.org/paper/690338b08cd66ab32d4ec201c242b2573d4206e3)
+**Published:** 2026-06-16
+**Abstract:** Recent advances in mobile agents are dominated by the GUI paradigm, in which agents perceive UI information and emit screen interactions. However, mobile platforms also expose a command-line interface (CLI) that provides direct access to device services and data. We argue CLI deserves first-class co...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Individual curiosity modulates exploration in sequential book selection (2026)
+**Authors:** Xu Gong, E. Boorman, Cuihua Shen et al.
+**Link:** [https://doi.org/10.1093/pnasnexus/pgag226](https://doi.org/10.1093/pnasnexus/pgag226)
+**Published:** 2026-06-22
+**Abstract:** 
+ Information-seeking is widely understood as a curiosity-driven exploration behavior similar to resource foraging. However, it remains unclear whether specific exploration decision mechanisms, such as reward generalization and directed exploration, extend beyond physical consumption domains to the ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration (2026)
+**Authors:** Ruyi Tang, G. Sergeant-Perthuis, David Colliaux
+**Link:** [https://www.semanticscholar.org/paper/1537776080adbf26999d217acc8f7e80730be05e](https://www.semanticscholar.org/paper/1537776080adbf26999d217acc8f7e80730be05e)
+**Published:** 2026-06-24
+**Abstract:** Living systems navigate environments using noisy and incomplete sensory signals. In unicellular algae, phototaxis is often modeled as a mechanistic run--tumble process driven by stimulus--response rules. However, such descriptions overlook how organisms actively sample their environment to reduce se...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Psychological Dynamics of Online Gambling in Digital Era: Systematic Literature Review (2026)
+**Authors:** Nisrina Widi Andini, M. S. Yuniardi, Istiqomah Istiqomah
+**Link:** [https://doi.org/10.38035/ijphs.v4i2.2052](https://doi.org/10.38035/ijphs.v4i2.2052)
+**Published:** 2026-06-24
+**Abstract:** Online gambling is the act of betting money or goods online. Its impacts range from physical and mental health issues to extreme cases such as suicide. This systematic review of 11 international and national journal articles aims to identify the factors that influence online gambling behavior. The r...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Measured Without Meaning: Data Subject Consciousness in Technology-Mediated STEM Learning Environments (2026)
+**Authors:** Joshua Jonas
+**Link:** [https://doi.org/10.31756/jrsmte.514si](https://doi.org/10.31756/jrsmte.514si)
+**Published:** 2026-06-15
+**Abstract:** Across STEM education, healthcare, and workplace settings, individuals increasingly learn and perform within data-rich environments where measurement systems generate information about their bodies and behaviors that they cannot access or interpret. This study introduces data subject consciousness, ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Development, validation, translation and user testing of a patient information leaflet for the management of dyslipidemia. (2026)
+**Authors:** Ramesh Bhandari, M. Ganachari
+**Link:** [https://doi.org/10.1038/s41598-026-58726-1](https://doi.org/10.1038/s41598-026-58726-1)
+**Published:** 2026-06-25
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Examining cryptocurrency adoption, considering the moderating impact of economic literacy and the mediating influence of perceived evaluation (2026)
+**Authors:** Shige Li, Mohammad Akbari Arekamari
+**Link:** [https://doi.org/10.1108/mip-05-2024-0330](https://doi.org/10.1108/mip-05-2024-0330)
+**Published:** 2026-06-19
+**Abstract:** 
+ 
+ This study investigates digital currency adoption by examining the interplay among technology–blockchain engagement (TBE), perceived evaluation (PE), financial literacy (FL) and purchases using digital currency (PDC). Specifically, it explores how user engagement with blockchain technologies sha...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Reader Segmentation on Top 5 Online News Media in Indonesia Using K-Means Clustering Algorithm (2026)
+**Authors:** Tyas Cahya Larasati, Jerry Heikal
+**Link:** [https://doi.org/10.59188/devotion.v7i6.25708](https://doi.org/10.59188/devotion.v7i6.25708)
+**Published:** 2026-06-10
+**Abstract:** The rapid growth of digital news consumption in Indonesia has not been matched by accurate audience mapping, leading to suboptimal content personalization and monetization. This research aims to identify reader segmentation across the top five online news media outlets in Indonesia  Detik.com, Kompa...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-06-22
 
 ### Mobile Human-Computer Interaction: Trends, Challenges, and Future Directions in Enhancing User Experience, Adaptive Systems, and Intelligent Mobile Interfaces (2026)
