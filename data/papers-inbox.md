@@ -1,3 +1,41 @@
+## New papers — 2026-07-06
+
+### Beyond adoption: integrating TTAT and user-centric design for mHealth service continuance. (2026)
+**Authors:** Nishant Kumar, Krishna Kishore Soornahalli Vittal Murthy, V. Moorthy et al.
+**Link:** [https://doi.org/10.1108/JHOM-05-2025-0283](https://doi.org/10.1108/JHOM-05-2025-0283)
+**Published:** 2026-07-03
+**Abstract:** PURPOSE
+A significant challenge for healthcare organizations is user retention, with high early app abandonment rates impacting long-term engagement. The study evaluates how organizations can sustain mobile health (mHealth) applications by addressing perceived technological threats and leveraging us...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Gamification and Knowledge Management: State of the Art and Future Directions (2026)
+**Authors:** Behrooz Moradi, E. Bolisani, T. C. Kassaneh et al.
+**Link:** [https://doi.org/10.1007/s10758-026-09992-5](https://doi.org/10.1007/s10758-026-09992-5)
+**Published:** 2026-06-23
+**Abstract:** 
+ As organizations seek to turn knowledge into a strategic asset, gamification can strengthen motivation and engagement in knowledge management while also fostering collaborative knowledge creation. This study uses a bibliometric and systematic literature review approach, combined with content analy...
+**Tags:** #to-read #research-inbox
+
+---
+
+### As You Seek, So You Are Served: Bhagavad Gita 4.11 and the Logic of Algorithmic Reciprocity (2026)
+**Authors:** Sanjogita Mishra
+**Link:** [https://doi.org/10.62461/sam052026](https://doi.org/10.62461/sam052026)
+**Published:** 2026-07-01
+**Abstract:** This paper draws a conceptual parallel between the theology of reciprocal divinity articulated in Bhagavad Gita 4.11—"Ye yathā mām prapadyante tāmstathaiva bhajāmyaham" (As people surrender unto Me, so do I reciprocate)—and the logic of algorithmic personalization in social media environments. In th...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Understanding Higher Education Students’ Perceptions and Behaviors in Using Gen-AI (2026)
+**Authors:** C. Setiawan, Samuel Kenley Worang
+**Link:** [https://doi.org/10.24252/kah.v14i2a8](https://doi.org/10.24252/kah.v14i2a8)
+**Published:** 2026-06-24
+**Abstract:** Background: The rapid development and use of generative AI (Gen-AI) in recent years are closely related to college libraries. However, the swift adoption of Gen-AI technology by users has not been matched by appropriate college library services.Purpose: The study examines user perceptions of Gen-AI,...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-06-29
 
 ### Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen? (2026)
