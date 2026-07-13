@@ -1,3 +1,76 @@
+## New papers — 2026-07-13
+
+### Exploring Learning Support in Mobile and Augmented-Reality Concept-Mapping Interfaces: How Structure–Platform Alignment Shapes Vocabulary Learning Processes (2026)
+**Authors:** Shuo-Fang Liu, Yi-Chieh Wu, An-Yu Su
+**Link:** [https://doi.org/10.3390/app16136583](https://doi.org/10.3390/app16136583)
+**Published:** 2026-07-01
+**Abstract:** In multimodal learning interfaces, effective learning support depends not merely on adding text, images, audio, or spatial interaction, but on whether knowledge representations can be understood, navigated, and transformed into cognitively manageable learning support across platforms. In vocabulary ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Social Information Quality and Environmental Volatility Shape Collective Foraging Behavior (2026)
+**Authors:** Valerii Chirkov, R. Kurvers, D. Deffner et al.
+**Link:** [https://doi.org/10.1101/2025.11.14.688412](https://doi.org/10.1101/2025.11.14.688412)
+**Published:** 2026-06-26
+**Abstract:** Collective foraging is widespread across the animal kingdom, allowing animals to more effectively discover resources. However, collective foragers need to balance a key trade off between private exploration and using social information. Social information can come in very distinct forms, ranging fro...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Understanding Pineapple Farmers’ for an Effective Pineapple Mobile App in Umling District of Meghalaya (2026)
+**Authors:** Pallavi Shaktawat, R. Singh, G. Ravi et al.
+**Link:** [https://doi.org/10.51220/jmr.v21-i1.3](https://doi.org/10.51220/jmr.v21-i1.3)
+**Published:** 2026-06-30
+**Abstract:** Pineapple cultivation supports the livelihood of thousands of farming households in Meghalaya, yet
+farmers face persistent challenges related to crop management, market access and information sharing. The growing penetration of smartphones in rural areas presents an opportunity to bridge these gaps ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The New Shape of Search: How Conversational AI Recomposes Information Seeking (2026)
+**Authors:** Michael Iannelli, Alan Ai
+**Link:** [https://www.semanticscholar.org/paper/e42725e5cd05ec304205a99a7cbebf9aad7db499](https://www.semanticscholar.org/paper/e42725e5cd05ec304205a99a7cbebf9aad7db499)
+**Published:** 2026-07-05
+**Abstract:** Classic models cast information seeking as iterative foraging: formulate a keyword query, scan results, reformulate, gather across sources, synthesize. We ask what happens when a conversational assistant is inserted into that episode. Linking real conversations with major assistants to the same user...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Design and Development of the Alhazen Mobile-Based Smart E-Commerce Application for Optics Using the Agile SDLC (2026)
+**Authors:** Rahul Pratama Siregar, Rizki Aulia Nanda, Kezia Monica Br Sihaloho et al.
+**Link:** [https://doi.org/10.59934/jaiea.v5i3.2467](https://doi.org/10.59934/jaiea.v5i3.2467)
+**Published:** 2026-06-19
+**Abstract:** The growth of e-commerce and the use of mobile devices has driven the need for digitalization in the optical sector, including Alhazen Optics, which still faces limitations in inventory management, transaction recording, order tracking, and marketing. This study aims to design and develop the Alhaze...
+**Tags:** #to-read #research-inbox
+
+---
+
+### AI-Assisted Design-to-Code Pipelines: Transforming Mobile Development Through Automated Component Generation (2026)
+**Authors:** Yasin Arik
+**Link:** [https://doi.org/10.47119/ijrp1002001720269537](https://doi.org/10.47119/ijrp1002001720269537)
+**Published:** 2026-07-08
+**Abstract:** The increasing complexity of mobile applications has intensified the gap between design intent and implementation, creating inefficiencies in traditional development workflows. In conventional design-to-code processes, user interface designs are manually translated into code, introducing delays, inc...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Effectiveness of Chain of Thought Strategies to Mitigate Sycophancy in Quantized Small Language Models (2026)
+**Authors:** H. B. Ozmen, F. A. Şenel
+**Link:** [https://doi.org/10.1142/s021821302650017x](https://doi.org/10.1142/s021821302650017x)
+**Published:** 2026-07-03
+**Abstract:** Small Language Models (SLMs) deployed in resource-constrained environments are increasingly susceptible to "sycophancy," a behavioral failure where models prioritize user-suggested biases over factual truth. Although mitigation strategies exist for high-resource settings, the effectiveness of these ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita (2026)
+**Authors:** Daniel Hsu, Luke Lu
+**Link:** [https://www.semanticscholar.org/paper/1bb4660820090c38d0832cbf51d6937d380ae11d](https://www.semanticscholar.org/paper/1bb4660820090c38d0832cbf51d6937d380ae11d)
+**Published:** 2026-07-03
+**Abstract:** Effective agency in social environments depends on when an agent seeks knowledge, when it acts, and whether its actions are justified by acquired information. Existing grounded benchmarks provide executable actions, persistent state, and verifiable outcomes, while social simulation environments prov...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-07-06
 
 ### Beyond adoption: integrating TTAT and user-centric design for mHealth service continuance. (2026)
