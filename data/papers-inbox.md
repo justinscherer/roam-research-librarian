@@ -1,3 +1,77 @@
+## New papers — 2026-07-20
+
+### ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI (2026)
+**Authors:** Yirui He, Ziyao He, Syed Fatiul Huq et al.
+**Link:** [https://doi.org/10.1145/3808136](https://doi.org/10.1145/3808136)
+**Published:** 2026-06-30
+**Abstract:** With over 60 percent of global Internet traffic originating from mobile devices, Responsive Web Design (RWD) has become essential for ensuring seamless user experiences across diverse screen sizes and resolutions. The Web Content Accessibility Guidelines require that both information and functionali...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Fecal Evidence of Metal and Metalloid Exposure in a Free-Ranging Juvenile Southern Elephant Seal (Mirounga leonina) From the Brazilian Coast. (2026)
+**Authors:** Leila S Lemos, Salvatore Siciliano, R. Hauser‐Davis
+**Link:** [https://doi.org/10.1007/s12011-026-05216-0](https://doi.org/10.1007/s12011-026-05216-0)
+**Published:** 2026-07-13
+**Abstract:** Southern elephant seals are highly mobile marine predators that can reflect environmental exposure to chemical elements through their diet and foraging ecology. However, information on elemental concentrations in elephant seal feces remains scarce, particularly outside Antarctic regions. In this stu...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Implementation of a Voice-Activated Smart Home Control and Communication System Using Edge Computing and Large Language Model (2026)
+**Authors:** Aurangjeb Khan, K. Jayasudha
+**Link:** [https://doi.org/10.26438/ijcse.v14i6.7473](https://doi.org/10.26438/ijcse.v14i6.7473)
+**Published:** 2026-06-30
+**Abstract:** Smart home device control through web and mobile application interfaces has become a conventional approach. With the advancement of Artificial Intelligence (AI) and the Internet of Things (IoT), smart home communication and control systems can now be enhanced through voice-activated interactions. Vo...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Redesain User Interface (UI) Dan User Experience (UX) Website Sanggar Rifky Albani (2026)
+**Authors:** Guruh Dio Saputra
+**Link:** [https://doi.org/10.62383/misterius.v3i2.1114](https://doi.org/10.62383/misterius.v3i2.1114)
+**Published:** 2026-06-27
+**Abstract:** The rapid development of digital application interfaces—including websites, desktop apps, and mobile apps—has made User Interface (UI) and User Experience (UX) critical aspects of digital product development. A well-designed UI serves as an effective communication bridge with users, while UX ensures...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Digitally embedded transaction taxes and enterprise payment systems: evidence from consumer behaviour within retail information infrastructures (2026)
+**Authors:** J. Danquah, Samuel Kenneth Adolphus Ben Crabbe, Boakye Boampong et al.
+**Link:** [https://doi.org/10.1108/jeim-12-2025-1316](https://doi.org/10.1108/jeim-12-2025-1316)
+**Published:** 2026-07-20
+**Abstract:** 
+ 
+ This study examines how digitally embedded transaction taxes within enterprise payment systems influence consumer purchasing behaviour, using Ghana's Electronic Transaction Levy (e-levy) as an empirical context. Rather than treating transaction taxes as external fiscal instruments, the study con...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The Power of Harnessing Awe to Promote Academic Growth and Engagement (2026)
+**Authors:** Magen Branham
+**Link:** [https://doi.org/10.9743/jse.2026.9.1.3](https://doi.org/10.9743/jse.2026.9.1.3)
+**Published:** 2026-06-30
+**Abstract:** Awe is a complex epistemic emotion characterized by perceptions of vastness and a need for cognitive accommodation, positioning it as a powerful mechanism for learning and development in higher education. This review synthesizes emerging literature on the role of awe in promoting academic growth, wi...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Information Seeking Behavior in LLM-Based RAG: Mental Models and Missing Information (2026)
+**Authors:** Bruno Nadalic Sotic, J. Kamps
+**Link:** [https://doi.org/10.1145/3805712.3808537](https://doi.org/10.1145/3805712.3808537)
+**Published:** 2026-07-19
+**Abstract:** Retrieval-augmented generation (RAG) systems are rapidly becoming a primary entry point to information, replacing ranked lists with synthesized, citation-backed answers. While recent work has focused on improving RAG architectures and measuring answer correctness, much less is known about how users ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### From Lab to Reality: An Eye-tracking Study of How Users are Influenced to Search in the Era of GenAI (2026)
+**Authors:** Sara Allawati
+**Link:** [https://doi.org/10.1145/3805712.3808365](https://doi.org/10.1145/3805712.3808365)
+**Published:** 2026-07-19
+**Abstract:** This work proposes two complementary eye tracking methodologies focused on understanding information access. The first study examines the earliest stage of search, the formation of an information need, and the formulation of a query. The second study presents participants with a pre-typed query on a...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-07-13
 
 ### Exploring Learning Support in Mobile and Augmented-Reality Concept-Mapping Interfaces: How Structure–Platform Alignment Shapes Vocabulary Learning Processes (2026)
