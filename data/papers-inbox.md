@@ -1,3 +1,70 @@
+## New papers — 2026-07-27
+
+### Large Language Models for Traumatic Dental Injuries Across Web‐Based and Mobile‐Based Interfaces: Assessing Accuracy, Quality, and Temporal Consistency (2026)
+**Authors:** Ezgi Can Çeki̇ç, Mertkan Kumru, Burcu Yilmaz et al.
+**Link:** [https://doi.org/10.1002/cre2.70416](https://doi.org/10.1002/cre2.70416)
+**Published:** 2026-07-19
+**Abstract:** ABSTRACT Objectives Traumatic dental injuries (TDIs) are frequent in clinical practice and require rapid, guideline‐based decisions, yet accessing accurate and reliable information may be challenging. Large language models (LLMs) such as ChatGPT, Gemini, DeepSeek, and Qwen are increasingly used as q...
+**Tags:** #to-read #research-inbox
+
+---
+
+### When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces (2026)
+**Authors:** Xin Chen, Huiting Shi, He Zhao
+**Link:** [https://doi.org/10.1145/3816046.3816267](https://doi.org/10.1145/3816046.3816267)
+**Published:** 2026-07-21
+**Abstract:** Conversational User Interfaces (CUIs) increasingly deliver multimodal outputs—text, images, audio, and video—enabled by large language models (LLMs). While richer outputs are often assumed to improve interaction, they introduce spatial and temporal costs that increase cognitive burden. We introduce ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### What happens before placing an order? Decoding consumers' visual attention during apparel information search in live-streaming (2026)
+**Authors:** Jiangtao Chu, Ping Xiao, Wei Yang et al.
+**Link:** [https://doi.org/10.1108/apjml-01-2026-0222](https://doi.org/10.1108/apjml-01-2026-0222)
+**Published:** 2026-07-21
+**Abstract:** 
+ 
+ Rapid expansion of apparel live-streaming e-commerce in China has been accompanied by phenomenal womenswear return rates, largely due to gaps between online fit expectations and offline try-on experiences. Drawing on information foraging theory and cognitive load theory, this study investigates ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Effects of Hallucination Risk and Algorithm Aversion on Organizational Knowledge Seeking with Generative AI (2026)
+**Authors:** Philipp Pecher, Felix Kegel, Lutz Kolbe
+**Link:** [https://doi.org/10.1007/s10796-026-10790-8](https://doi.org/10.1007/s10796-026-10790-8)
+**Published:** 2026-07-11
+**Abstract:** 
+ 
+ Knowledge transfer remains a persistent challenge in knowledge management. One crucial component is knowledge seeking, defined as the willingness to acquire new knowledge. The rise of generative artificial intelligence (GenAI) will transform knowledge seeking by enabling instant, user-tailored i...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Perceptions of digital medical information services applying new technologies (2026)
+**Authors:** Gong-Wook Lee, JungSun Seo, Y. Choi et al.
+**Link:** [https://doi.org/10.5195/jmla.2026.2314](https://doi.org/10.5195/jmla.2026.2314)
+**Published:** 2026-07-01
+**Abstract:** Objectives: This study examines users& behaviors and perceptions when accessing medical information in digital environments and proposes strategic directions for medical libraries seeking to adopt emerging technologies. Specifically, we empirically investigate user expectations regarding digital tec...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Integration of cognitive behavioral therapy and mobile health applications among university students with depression: a qualitative study (2026)
+**Authors:** Li-Ting Chen, H. Hsu, M. Lou et al.
+**Link:** [https://doi.org/10.1080/17482631.2026.2697390](https://doi.org/10.1080/17482631.2026.2697390)
+**Published:** 2026-07-15
+**Abstract:** Abstract Background Most applications for depression lack comprehensive theoretical integration and qualitative assessments of university students’ needs remain insufficient. Objective This study aimed to explore the needs and experiences of university students with depressive symptoms and develop a...
+**Tags:** #to-read #research-inbox
+
+---
+
+### From Search to Ask to Act: The Evolution of Information Access in the Age of Large Models and Agents (2026)
+**Authors:** Ji-rong Wen
+**Link:** [https://doi.org/10.1145/3805712.3809404](https://doi.org/10.1145/3805712.3809404)
+**Published:** 2026-07-19
+**Abstract:** Information access has evolved from search to ask to act. For more than two decades, information retrieval made networked information usable through crawling, indexing, ranking, user modeling, and recommendation. My early work on Web page understanding, vertical search, learning-to-rank, personalize...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-07-20
 
 ### ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI (2026)
