@@ -1,3 +1,12 @@
+## New papers — 2026-08-03
+
+### Principled Direction-Free Intrinsic Motivation through Model-Free Epistemic Free-Energy Estimators (2026)
+**Authors:** Alireza Furutanpey, S. Dustdar
+**Link:** [https://www.semanticscholar.org/paper/f72608e939d3f0224b0ce04ca7f63f49bf3fa1dd](https://www.semanticscholar.org/paper/f72608e939d3f0224b0ce04ca7f63f49bf3fa1dd)
+**Published:** 2026-07-18
+**Abstract:** Across environments with mixed sources of uncertainty, unsupervised reinforcement learning requires intrinsic motivation that does not precommit to a particular direction of surprise. Surprise minimization is scoped by design to ``unstable''environments. Prediction-error curiosity rewards total expe...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-07-27
 
 ### Large Language Models for Traumatic Dental Injuries Across Web‐Based and Mobile‐Based Interfaces: Assessing Accuracy, Quality, and Temporal Consistency (2026)
