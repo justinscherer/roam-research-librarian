@@ -1,3 +1,75 @@
+## New papers — 2026-08-17
+
+### Quantifying Visual Complexity in Generative AI-Designed User Interfaces: Information-Theoretic and Structural Associations with Perceived Cognitive Load and Task Performance (2026)
+**Authors:** N. Vardar, Çağrı Gümüş
+**Link:** [https://doi.org/10.3390/electronics15153458](https://doi.org/10.3390/electronics15153458)
+**Published:** 2026-08-05
+**Abstract:** Generative artificial intelligence is increasingly used to produce user interface designs, yet the usability and task-performance implications of AI-generated interfaces remain insufficiently quantified. This study proposes a reproducible evaluation framework combining computational visual complexit...
+**Tags:** #to-read #research-inbox
+
+---
+
+### A Geographic Information System Mobile Application for Road Traffic Crash Data Collection, Management and Analysis (2026)
+**Authors:** J. Odinfono, Manuel Ndebele, A. Afolabi et al.
+**Link:** [https://doi.org/10.22146/jgst.v4i1.29579](https://doi.org/10.22146/jgst.v4i1.29579)
+**Published:** 2026-07-31
+**Abstract:** The study addressed the issue of road traffic crashes in developing countries like Nigeria by developing a mobile app called Geographic Information System-Road Traffic Crash Data (GIS-RTCD). The app developed and tested in Southwest Nigeria is designed to transform the collection and management of r...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Design and Evaluation of an Interactive Mobile Application Platform for Elderly Care and Support (2026)
+**Authors:** H. Nweke, Chioma Virginia Anikwe-Onyiwa, Ignatius Ogbaga
+**Link:** [https://doi.org/10.33003/fjs-2026-1012-4925](https://doi.org/10.33003/fjs-2026-1012-4925)
+**Published:** 2026-08-01
+**Abstract:** This study presents the development of a Mobile-Based Health Monitoring System (M-HMSE) designed to enhance real-time healthcare delivery for the elderly in rural areas. The system incorporates mobile functionality and a NoSQL database (MongoDB) to develop a system that enables users to register and...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Age-Appropriate Mobile Banking Interface Design Using AI-Based Age Estimation (2026)
+**Authors:** Furkan İsmailoğlu, Ali Burak Öncül
+**Link:** [https://doi.org/10.69882/adba.cs.2026073](https://doi.org/10.69882/adba.cs.2026073)
+**Published:** 2026-07-31
+**Abstract:** The rapidly aging global population has made the accessibility of digital banking services a critical design challenge. Older adults face barriers in mobile banking applications such as small font sizes, complex navigation, and high information density. In this study, an Android mobile banking proto...
+**Tags:** #to-read #research-inbox
+
+---
+
+### UI/UX Design of a Mobile Pet Care Application for Owners Using Design Thinking (2026)
+**Authors:** Amalia Rodhya Ulfa, Abdul Rezha Effrat Najaf, Prasasti Karunia Farista Ananto
+**Link:** [https://doi.org/10.32877/bt.v9i1.3868](https://doi.org/10.32877/bt.v9i1.3868)
+**Published:** 2026-08-10
+**Abstract:** The increasing demand for pet care services in Indonesia has intensified the need for integrated digital solutions that improve operational efficiency and service reliability. Many pet care providers still depend on fragmented workflows, including WhatsApp-based reservations, social media promotion,...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Mobile Sampling System to Resolve Firefighter Team Exposures to Volatile Organic Compounds. (2026)
+**Authors:** Britney A V Gallego, Jessica L Day, M. McCartney et al.
+**Link:** [https://doi.org/10.1093/milmed/usag087](https://doi.org/10.1093/milmed/usag087)
+**Published:** 2026-08-01
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Development of the Rational Thinking, Emotion Regulation, and Problem-Solving Mental Fitness Mobile App for US Navy Sailors: Qualitative and Quantitative Usability Evaluation (2026)
+**Authors:** David P. Cenkner, Jennifer D. June, S. Schueller et al.
+**Link:** [https://doi.org/10.2196/89994](https://doi.org/10.2196/89994)
+**Published:** 2026-07-31
+**Abstract:** Abstract Background US Navy sailors experience a range of personal and interpersonal stressors due to challenging operational tempos that can contribute to psychological distress and increased suicide risk. Digital mental fitness tools offer scalable, stigma-reducing solutions to support psychologic...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Entrepreneurial Knowing: Connecting Knowledge management and Intellectual Capital in Early-Stage Startups (2026)
+**Authors:** Resma Dangol
+**Link:** [https://doi.org/10.3126/tulssaa.v13i1.98609](https://doi.org/10.3126/tulssaa.v13i1.98609)
+**Published:** 2026-08-14
+**Abstract:** This study examines how insecurity forms entrepreneurial knowing in early-stage startups and how knowledge management conditions the development of intellectual capital, with a focus on information behavior in resource-constrained settings. Based on 11 semi-structured interviews with early-stage ent...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-08-03
 
 ### Principled Direction-Free Intrinsic Motivation through Model-Free Epistemic Free-Energy Estimators (2026)
