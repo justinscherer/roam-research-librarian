@@ -1,3 +1,13 @@
+## New papers — 2026-08-24
+
+### Exploring Perspectives on Ozempic: A Netnographic Qualitative Evaluation of the Pro-Eating Disorder Community on X (Formerly Twitter). (2026)
+**Authors:** Da Sun, Tovah Yanover, Helena Katona et al.
+**Link:** [https://doi.org/10.1002/eat.70190](https://doi.org/10.1002/eat.70190)
+**Published:** 2026-08-16
+**Abstract:** OBJECTIVE
+Eating disorders (EDs) are complex conditions with medical and psychosocial implications. Social media (SM) exposure has been associated with increased body image concerns and maladaptive eating behaviors. Pro-eating disorder (pro-ED) communities exist across SM platforms and often perpetu...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-08-17
 
 ### Quantifying Visual Complexity in Generative AI-Designed User Interfaces: Information-Theoretic and Structural Associations with Perceived Cognitive Load and Task Performance (2026)
