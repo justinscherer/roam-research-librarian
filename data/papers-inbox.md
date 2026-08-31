@@ -1,3 +1,98 @@
+## New papers — 2026-08-31
+
+### Attitudes toward mobile apps for infectious disease surveillance: a cross-sectional study of trust, usability, and adoption in Australia. (2026)
+**Authors:** Fatema Kalyar, C. R. Maclntyre, M. Kunasekaran et al.
+**Link:** [https://doi.org/10.1177/18333583261452982](https://doi.org/10.1177/18333583261452982)
+**Published:** 2026-08-21
+**Abstract:** BACKGROUND
+Mobile applications for infectious disease surveillance can facilitate early outbreak detection and timely public health action. However, there is limited information about their real-world adoption, public trust, perceived usefulness, and preferred features.
+
+
+OBJECTIVE
+To assess public ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Digital Agriculture and Sustainable Rural Transformation: A Critical Narrative Review of Mobile Agro-Advisory Services, Agricultural Robotics and Livelihood Resilience (2026)
+**Authors:** Pragya Ojha, P. Ojha, Pratibha Joshi
+**Link:** [https://doi.org/10.9734/jsrr/2026/v32i94462](https://doi.org/10.9734/jsrr/2026/v32i94462)
+**Published:** 2026-08-22
+**Abstract:** Digital agriculture is increasingly presented as a route to more productive, resource-efficient and climate-resilient rural economies, yet technologies grouped under this label differ sharply in capital intensity, evidence maturity and distributional consequences. This critical narrative review exam...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Design and Development of an Urban School Mobile Application using Android Studio (2026)
+**Authors:** Ngosa Kasawa
+**Link:** [https://doi.org/10.36948/ijfmr.2026.v08i04.83058](https://doi.org/10.36948/ijfmr.2026.v08i04.83058)
+**Published:** 2026-08-16
+**Abstract:** Many urban schools, including Kachela Trust School in Lusaka, Zambia, still rely on manual and paper-based systems for communication, attendance tracking, academic reporting, and general administration. These traditional methods commonly cause delays, information gaps, data inconsistencies, and incr...
+**Tags:** #to-read #research-inbox
+
+---
+
+### HarmonyOS system mobile offline terminal scanning and verification data structured storage method (2026)
+**Authors:** Li Zhang, Zhenhua Ying, Qiangxu Zheng et al.
+**Link:** [https://doi.org/10.1117/12.3120715](https://doi.org/10.1117/12.3120715)
+**Published:** 2026-08-21
+**Abstract:** Begin the abstract two lines below author names and addresses. The abstract summarizes key findings in the paper. It is a The current method of writing data record by record only triggers frequent database I/O operations, resulting in low efficiency for structured storage of scanned verification dat...
+**Tags:** #to-read #research-inbox
+
+---
+
+### HCSGRN: Hierarchical Cross-Attention and Structure-Aware Graph Reasoning Network for Multimodal Sarcasm Detection (2026)
+**Authors:** Chunlan Zhan, Wenhua Qian, Peng Liu et al.
+**Link:** [https://doi.org/10.1109/TCE.2026.3686227](https://doi.org/10.1109/TCE.2026.3686227)
+**Published:** 2026-08-01
+**Abstract:** With the proliferation of user-generated multimodal content on consumer electronics platforms, including mobile applications and streaming media interfaces, accurately interpreting user sentiment, especially sarcastic intent, has become increasingly important. Multimodal sarcasm detection aims to id...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Songs of resistance and identity: The role of Telangana folk songs in political mobilization and cultural memory (2026)
+**Authors:** M. Chiranjeevi, Ritu Sharma
+**Link:** [https://doi.org/10.1177/13678779261470837](https://doi.org/10.1177/13678779261470837)
+**Published:** 2026-08-05
+**Abstract:** This study explores how the Telangana folk songs were used as a launch pad in political agitation, cultural memory, and statehood shaping of identities in the period (1998–2014). It uses ethnographic fieldwork, interviews with performers, and study of lyrics as it tracks the growth of oral tradition...
+**Tags:** #to-read #research-inbox
+
+---
+
+### External incentives change the relation between confidence and epistemic curiosity (2026)
+**Authors:** Yue Yin, Liang Luo, K. Desender
+**Link:** [https://doi.org/10.3758/s13423-026-02982-9](https://doi.org/10.3758/s13423-026-02982-9)
+**Published:** 2026-08-26
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Notoriedad Digital y Capital de Marca del K-pop en Latinoamérica: Un Análisis de Series Temporales (2021-2024) (2026)
+**Authors:** Eunhee Lee, Ana Elida Vargas Gutiérrez, Omar Guerrero Hernández et al.
+**Link:** [https://doi.org/10.60112/erc.v6.i3.869](https://doi.org/10.60112/erc.v6.i3.869)
+**Published:** 2026-08-25
+**Abstract:** This study explores the relationship between digital notoriety (SVI) and brand equity (BPI) of the K-pop phenomenon in Mexico, Brazil, and Argentina (2021-2024), utilizing a quantitative correlational approach based on quarterly time series analysis. The findings reveal a significant negative correl...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Synthetic Dialogue in the Grey Zone (2026)
+**Authors:** R. Reczkowski
+**Link:** [https://doi.org/10.12775/setf.2026.023](https://doi.org/10.12775/setf.2026.023)
+**Published:** 2026-08-24
+**Abstract:** Large language models (LLMs) are increasingly mediating public conversations through chatbots, search assistants, and content generation tools. In the context of grey zone competition, which involves hostile activity below the threshold of open conflict, LLM systems can be repurposed to amplify cogn...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The Role of Social Networking Sites (SNS) and mHealth Pregnancy Apps in Maternal Health Literacy and Behavior. (2026)
+**Authors:** Renee Buster, Thomas Guffey, Supriya Rana
+**Link:** [https://doi.org/10.1177/08901171261481913](https://doi.org/10.1177/08901171261481913)
+**Published:** 2026-08-26
+**Abstract:** PurposeTo examine the relationship between social networking service (SNS) usage and maternal health literacy (MHL) among women in the U.S., and to assess pregnancy app use.DesignCross-sectional survey study.SettingQualtrics data collection from U.S. women aged 18-49 who were currently or previously...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-08-24
 
 ### Exploring Perspectives on Ozempic: A Netnographic Qualitative Evaluation of the Pro-Eating Disorder Community on X (Formerly Twitter). (2026)
