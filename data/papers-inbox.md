@@ -1,3 +1,91 @@
+## New papers — 2026-09-07
+
+### "Act Like a 5th Grader"is Not Enough: Bounding Knowledge in LLM-Based User Simulators (2026)
+**Authors:** Krisztian Balog, A. M. Bakken
+**Link:** [https://www.semanticscholar.org/paper/81ca884095827c5fd3474bd5f7bd252c4e52504d](https://www.semanticscholar.org/paper/81ca884095827c5fd3474bd5f7bd252c4e52504d)
+**Published:** 2026-08-30
+**Abstract:** Large language models (LLMs) are increasingly used to simulate human behavior but frequently fail to exhibit realistic cognitive constraints, suffering from a"superhuman bias."Using a dataset of over 71,000 reading comprehension responses from 2,359 primary-school students (grades 4--6), we demonstr...
+**Tags:** #to-read #research-inbox
+
+---
+
+### An Integrated Product Service System Framework for On-Site Digital Human Guide Systems (2026)
+**Authors:** Zhen Liu, Tianrui Zhu, Fenghong Wang et al.
+**Link:** [https://doi.org/10.3390/systems14080964](https://doi.org/10.3390/systems14080964)
+**Published:** 2026-08-09
+**Abstract:** On-site digital human guide systems, which integrate intelligent interactive technologies with guidance, interpretation, and information services, are emerging as an important form of intelligent on-site service. However, existing knowledge remains largely fragmented across technological configurati...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment (2026)
+**Authors:** Siwei Zhang, Yun Xiong, Xi Chen et al.
+**Link:** [https://doi.org/10.1145/3770855.3818491](https://doi.org/10.1145/3770855.3818491)
+**Published:** 2026-08-08
+**Abstract:** Financial risk assessment (FRA) seeks to forecast the likelihood of user default based on transaction sequences, which are inherently sequential and enriched with textual attributes. Despite the remarkable potential of large language models (LLMs) in sequential modeling and semantic understanding, d...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Digital financial inclusion from the inside: payments, credit and the equipment of users in Latin America (2026)
+**Authors:** Santiago Mandirola
+**Link:** [https://doi.org/10.1108/qrfm-07-2025-0240](https://doi.org/10.1108/qrfm-07-2025-0240)
+**Published:** 2026-08-28
+**Abstract:** 
+ 
+ This paper aims to examine how Latin American fintech practitioners develop and conceptualize digital financial services in the pursuit of financial inclusion. It interrogates how fintech specialists attribute digital payments with the potential to reshape the financial conduct of target populat...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Assessing and Enhancing
+Base Bath Safety Culture Through
+Student-Led Initiatives in an Academic Research Environment (2026)
+**Authors:** H. Wellman, Santiago Diaz-Arauzo, Gregory J. Moller et al.
+**Link:** [https://doi.org/10.1021/acs.chas.6c00019](https://doi.org/10.1021/acs.chas.6c00019)
+**Published:** 2026-08-09
+**Abstract:** 
+ Base baths, which typically employ strong bases dissolved in alcohols, are frequently used to clean laboratory glassware but present significant fire, chemical, and handling hazards when improperly prepared or maintained. This work evaluates prior awareness, documentation practices, and daily use ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### HIV Pre-Exposure Prophylaxis Use Among South Asian Sexual Minority Men in the United States: Pilot Web-Based Survey Study (2026)
+**Authors:** Akshay Sharma, Sara Boyd, Gregory Sallabank
+**Link:** [https://doi.org/10.2196/88920](https://doi.org/10.2196/88920)
+**Published:** 2026-08-11
+**Abstract:** Abstract Background South Asian American gay, bisexual, and other men who have sex with men (GBM) experience multiple minority stressors, such as internalized homophobia, racial prejudice, and homonegative discrimination, thereby elevating their risk of HIV. Due to the scarcity of HIV scientific lit...
+**Tags:** #to-read #research-inbox
+
+---
+
+### THE QURAN'S TEACHINGS IN THE ETIQUETTE OF DISCOURSE: THE STORY OF THE PROPHET MOSES AS A MODEL (2026)
+**Authors:** Syed Mohammad Chaedar Syed Abdurrahman al-Yahya, Mohammad Sobri Ellias
+**Link:** [https://doi.org/10.64757/alqanatir.2026.3508/1512](https://doi.org/10.64757/alqanatir.2026.3508/1512)
+**Published:** 2026-08-31
+**Abstract:** It is not difficult to impart knowledge or offer advice, but the difficulty lies in choosing the right method of presentation to ensure results. How many souls have turned away from the word of truth, not because they questioned its validity or doubted its correctness, but because the reason for the...
+**Tags:** #to-read #research-inbox
+
+---
+
+### COVID and Post-COVID E-Learning Reforms in Higher Education Institutions: A Systematic Review of Literature (2026)
+**Authors:** Saeeda Mirza, Sadia Butt, Amna Arif et al.
+**Link:** [https://doi.org/10.63544/jbii.v5i8.174](https://doi.org/10.63544/jbii.v5i8.174)
+**Published:** 2026-08-24
+**Abstract:** Due to the advent of Covid-19 pandemic, different socio-economic challenges have been faced by all the countries worldwide. Every country has formulated and implemented different measures, which includes limited uses of public places, social distancing, closure of schools and Universities etc. The p...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Emotional intelligence of artificial intelligence: Generation Z’s digital connectedness and virtual-to-real behavioral spillover (2026)
+**Authors:** E. Sung, Ohbyung Kwon, Jinyoung Im
+**Link:** [https://doi.org/10.1108/jcm-05-2025-7936](https://doi.org/10.1108/jcm-05-2025-7936)
+**Published:** 2026-08-28
+**Abstract:** 
+ 
+ This study’s aim is to examine the effects of actual metaverse users’ parasocial relationships with artificial intelligence– (AI-) controlled non-player characters (NPCs) on digital luxury non-fungible token (NFT) brand preferences leading to behavioral intentions (e.g. online and offline purcha...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-08-31
 
 ### Attitudes toward mobile apps for infectious disease surveillance: a cross-sectional study of trust, usability, and adoption in Australia. (2026)
