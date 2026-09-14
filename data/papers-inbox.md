@@ -1,3 +1,59 @@
+## New papers — 2026-09-14
+
+### Information Seeking, Evidence Evaluation, and Problem Framing During Undergraduate Engineering Design Activities (2026)
+**Authors:** Ba Alushina
+**Link:** [https://doi.org/10.55248/gengpi.07.0826.2520](https://doi.org/10.55248/gengpi.07.0826.2520)
+**Published:** 2026-08-20
+**Abstract:** Engineering design is an iterative process in which problem understanding, information acquisition, evidence assessment, and decision-making interact throughout the development of technical solutions. Undergraduate engineering students, however, often encounter difficulties determining what informat...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Supplement Safety Knowledge, Information Sources, and Self-Reported Safety-Related Behaviors Among Adults Aged 40 Years and Older: A Pilot Study (2026)
+**Authors:** Beata Walczyk, A. Białek
+**Link:** [https://doi.org/10.3390/nu18172921](https://doi.org/10.3390/nu18172921)
+**Published:** 2026-09-01
+**Abstract:** Background/Objectives: Dietary supplement use is common in middle and later adulthood, but factual safety knowledge may not necessarily translate into safety-related behavior. This pilot study examined supplement use, supplement safety knowledge, information-source pathways, and self-reported safety...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Beyond information seeking: a latent profile analysis of financial media repertoires and psychological motivations among Chinese users (2026)
+**Authors:** Qi-Ren Xiang
+**Link:** [https://doi.org/10.3389/fpsyg.2026.1757025](https://doi.org/10.3389/fpsyg.2026.1757025)
+**Published:** 2026-09-03
+**Abstract:** 
+ 
+ In the digital era, financial information acquisition is a complex behavioral outcome driven by individual psychological needs and structural constraints. Drawing on the Duality of Media framework and Uses and Gratifications (U&G) theory, this study investigates the cross-platform financial medi...
+**Tags:** #to-read #research-inbox
+
+---
+
+### OTC Medication Risk Literacy, Confidence, and Safety Behaviours Among Romanian Adults: A Cross-Sectional Scenario-Based Assessment (2026)
+**Authors:** Eszter A. Dho-Nagy, Béla Kovács, Z. Kovács et al.
+**Link:** [https://doi.org/10.3390/healthcare14172886](https://doi.org/10.3390/healthcare14172886)
+**Published:** 2026-09-01
+**Abstract:** Highlights What are the main findings? Most respondents correctly recognized major OTC medicine-related risks, with the highest recognition observed for severe adverse reactions, pregnancy-related medicine use, persistent symptoms requiring medical evaluation, and inappropriate NSAID use. Important ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### How FinTech Capability Shapes Entrepreneurial Success: The Mediating Role of Entrepreneurial Financial Agility and the Moderating Role of Digital Market Intelligence (2026)
+**Authors:** Muhammad Ali Qazi, Haris Mehmood, F. Arzu et al.
+**Link:** [https://doi.org/10.63544/jbii.v5i8.195](https://doi.org/10.63544/jbii.v5i8.195)
+**Published:** 2026-08-30
+**Abstract:** FinTech has increasingly transformed entrepreneurship in emerging economies by enabling technology-driven financial access, decision making, and resource management. However, possessing FinTech capabilities does not necessarily guarantee entrepreneurial success, particularly when entrepreneurs must ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Online Peer Support Use Among Informal Caregivers of People Living With Alzheimer Disease or Related Dementias: National Cross-Sectional Web-Based Survey (2026)
+**Authors:** C. Ni, L. Xia, L. Song et al.
+**Link:** [https://doi.org/10.64898/2026.09.02.26362079](https://doi.org/10.64898/2026.09.02.26362079)
+**Published:** 2026-09-07
+**Abstract:** Background: Informal caregivers of persons living with Alzheimer's disease or related dementias (ADRD) increasingly seek support in online environments. Prior work suggests that perceived value may shape online support use, yet practical and trust-related barriers may still impede uptake even when b...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-09-07
 
 ### "Act Like a 5th Grader"is Not Enough: Bounding Knowledge in LLM-Based User Simulators (2026)
