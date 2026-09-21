@@ -1,3 +1,12 @@
+## New papers — 2026-09-21
+
+### UMA ANÁLISE DE: HISTÓRIA DA SEXUALIDADE I: A VONTADE DE SABER EM DIÁLOGOS ENTRE MICHEL FOUCAULT, JUDITH BUTLER, GILLES DELEUZE E ACHILLE MBEMBE (2026)
+**Authors:** Alice Dos Santos Mendes Gabriel
+**Link:** [https://doi.org/10.55028/07m4d029](https://doi.org/10.55028/07m4d029)
+**Published:** 2026-09-10
+**Abstract:** This article analyzes the relationships between power, biopower, biopolitics, sexuality, and processes of subjectivation based on Chapter V of The History of Sexuality: The Will to Knowledge by Michel Foucault (1999). The study also establishes a dialogue with the contributions of Judith Butler (201...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-09-14
 
 ### Information Seeking, Evidence Evaluation, and Problem Framing During Undergraduate Engineering Design Activities (2026)
