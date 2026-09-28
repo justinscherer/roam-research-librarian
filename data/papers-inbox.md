@@ -1,3 +1,48 @@
+## New papers — 2026-09-28
+
+### Beyond Technology Acceptance: Rethinking the Role of Epistemic Curiosity in Digital Literacy (2026)
+**Authors:** H. Hunaepi, Desak Made Citrawathi, Abubakar Sidik Katili
+**Link:** [https://doi.org/10.33394/ijete.v3i2.22521](https://doi.org/10.33394/ijete.v3i2.22521)
+**Published:** 2026-09-10
+**Abstract:** This commentary reconsiders the relationship between epistemic curiosity and digital literacy by examining how curiosity, technology perceptions, and digital engagement may contribute to capability development. It argues that favorable perceptions of usefulness and ease of use should be distinguishe...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Tracing the epistemic arc: Distinct physiological signatures for curiosity, insight, understanding and liking when viewing visual art (2026)
+**Authors:** Dominik Welke, Edward A. Vessel
+**Link:** [https://doi.org/10.1101/2025.05.15.654230](https://doi.org/10.1101/2025.05.15.654230)
+**Published:** 2026-09-19
+**Abstract:** A series of internal states, proceeding from curiosity (drive state) to insight (uncertainty reduction) to pleasure (reward and reinforcement), might represent a fundamental pathway for motivated learning. Here we present a paradigm that combines measurement of curiosity, insight (aha), understandin...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The Patient–AI Relationship in Obsessive–Compulsive and Related Disorders: A Cognitive-Behavioral Framework (2026)
+**Authors:** B. Zaboski, E. Sugino, Kyle King
+**Link:** [https://doi.org/10.3390/jcm15187154](https://doi.org/10.3390/jcm15187154)
+**Published:** 2026-09-01
+**Abstract:** Generative artificial intelligence (AI) has evolved from a passive information tool into a responsive conversational system. For individuals with obsessive–compulsive and related disorders (OCRDs) that are, in part, maintained by safety behaviors and other negative reinforcement loops, large languag...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The Generative AI Divide: A Descriptive Analysis of Heterogeneous Adaptation Among Knowledge Contributors (2026)
+**Authors:** Jaeyoon Song, Arman Vossoughi, Hong-Zun Zhang et al.
+**Link:** [https://doi.org/10.1145/3817011](https://doi.org/10.1145/3817011)
+**Published:** 2026-09-23
+**Abstract:** How are engagement patterns within online knowledge communities changing in the context of generative AI? While prior research has documented an overall decline in platform activity following the release of ChatGPT, less is known about how different types of contributors have responded to this disru...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data (2026)
+**Authors:** Jin-Lin Hu, Ross M. Clarke, Yi-Chuan Zhang et al.
+**Link:** [https://www.semanticscholar.org/paper/d8bc1e44b3f8e58dcdfbdf7c6cf8b7a4cfc3b4e7](https://www.semanticscholar.org/paper/d8bc1e44b3f8e58dcdfbdf7c6cf8b7a4cfc3b4e7)
+**Published:** 2026-09-16
+**Abstract:** Scaling laws hold that language models grow more capable with more parameters and more training data. Mixture-of-Experts (MoE) architectures are a remarkable demonstration of these laws, activating only a fraction of an enormous parameter bank for each token. But this success is built on static pret...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-09-21
 
 ### UMA ANÁLISE DE: HISTÓRIA DA SEXUALIDADE I: A VONTADE DE SABER EM DIÁLOGOS ENTRE MICHEL FOUCAULT, JUDITH BUTLER, GILLES DELEUZE E ACHILLE MBEMBE (2026)
