@@ -1,3 +1,93 @@
+## New papers — 2026-10-05
+
+### Development of the Ijma Ulama Mobile Application as an Information Medium for Islamic Legal Foundations (2026)
+**Authors:** Kanaya, Farida Yusuf
+**Link:** [https://doi.org/10.37251/synapsi.v1i2.3841](https://doi.org/10.37251/synapsi.v1i2.3841)
+**Published:** 2026-09-26
+**Abstract:** Purpose of the study: This study aims to develop an Android-based mobile application that provides accessible and structured information on ijma’ ulama as a source of Islamic law. The application is designed to integrate information on ijma’, the Qur’an, and hadith, while providing search features t...
+**Tags:** #to-read #research-inbox
+
+---
+
+### When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents (2026)
+**Authors:** Heng Li, Fu-Lin Zhao, Zheng-Cong Geng et al.
+**Link:** [https://www.semanticscholar.org/paper/74d9fcd5ea37b3ddde1618bae8fd3bba7ab85d75](https://www.semanticscholar.org/paper/74d9fcd5ea37b3ddde1618bae8fd3bba7ab85d75)
+**Published:** 2026-09-15
+**Abstract:** Mobile agents are increasingly capable of autonomously interacting with mobile applications and performing consequential actions on behalf of users. Effective human oversight of such agents relies on a basic premise: users and agents observe consistent information from the same interface. We show th...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Comparative Evaluation of an XR Pen-based Control Interface for Semi-Autonomous Mobile Robot Navigation in Service Environments (2026)
+**Authors:** Alicia Torc, Carl Tornberg, Éric Piette et al.
+**Link:** [https://www.semanticscholar.org/paper/54871d2308ae583f18cccfe49a66376115554c46](https://www.semanticscholar.org/paper/54871d2308ae583f18cccfe49a66376115554c46)
+**Published:** 2026-09-25
+**Abstract:** Service robots remain difficult to deploy in domestic environments, partly because fully autonomous operation is not yet reliable in unpredictable surroundings, and partly because conventional control methods remain inaccessible to novice users. Extended Reality (XR) enables operators to visualize r...
+**Tags:** #to-read #research-inbox
+
+---
+
+### FocalFlow: Facilitating Decision-Making in Multi-Step Mobile Tasks for Blind and Low Vision People (2026)
+**Authors:** Ju-Nan Xie, Zhi-Qing Wu, Zi-Yan Wang et al.
+**Link:** [https://doi.org/10.1145/3831982](https://doi.org/10.1145/3831982)
+**Published:** 2026-09-30
+**Abstract:** Multi-step decision-making tasks, such as booking a hospital appointment, on mobile devices present a two-fold challenge for blind and low vision (BLV) users: they might struggle to gather relevant information and make informed decisions, as screen readers present task-relevant elements sequentially...
+**Tags:** #to-read #research-inbox
+
+---
+
+### ASTRA: Toward Agentic AI for Intelligent Device-Network-Cloud Synergy in Next-Generation Mobile Communication (2026)
+**Authors:** Ya-Long Guo, Jin-Bo Tan, Ying Wang et al.
+**Link:** [https://www.semanticscholar.org/paper/27dba1cf1f4fb8757a6865c36af4376825cc96de](https://www.semanticscholar.org/paper/27dba1cf1f4fb8757a6865c36af4376825cc96de)
+**Published:** 2026-09-18
+**Abstract:** The evolution toward next-generation mobile communication systems demands intelligence-native networks capable of autonomously adapting to user intent, yet the prevailing 3GPP protocol-driven device-network-cloud (DNC) architecture imposes three structural bottlenecks: protocol-constrained decision ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### PERANCANGAN MOBILE APP E-RAIHAN DI BALEE PENDIDIKAN AL-QUR'AN MENGGUNAKAN FRAMEWORK FLUTTER (2026)
+**Authors:** Indra Lukman Kheirullah, Raihan Islamadina, Fathiah
+**Link:** [https://doi.org/10.23969/jp.v11i3.64888](https://doi.org/10.23969/jp.v11i3.64888)
+**Published:** 2026-09-08
+**Abstract:** Balee Pendidikan Al-Qur'an Ar-Raihan still manages its administration conventionally through control cards carried by the students, so that attendance records, recitation progress, and tuition information are difficult for parents to monitor and prone to physical loss. This study aims to design and ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Designing Persuasive Mobile Live-Commerce Systems (2026)
+**Authors:** Wan-Chen-Lee-Hsin-Hui Lin, N. Imm, N. Basha
+**Link:** [https://doi.org/10.3991/ijim.v20i17.62832](https://doi.org/10.3991/ijim.v20i17.62832)
+**Published:** 2026-09-11
+**Abstract:** Mobile live-streaming commerce has quickly changed digital shopping. It lets people interact in real time, see products in different ways, and connect with others through mobile apps. Even though many use these platforms, keeping users engaged remains a major challenge for designers and retailers. T...
+**Tags:** #to-read #research-inbox
+
+---
+
+### From Risk Visualization to Human-Centred Interfaces: A Scoping Review of Digital Technologies for Risk Communication (2026)
+**Authors:** M. Monaci, Elena Cattelino, L. Scacchi et al.
+**Link:** [https://doi.org/10.3390/app16189058](https://doi.org/10.3390/app16189058)
+**Published:** 2026-09-12
+**Abstract:** Digital risk communication increasingly relies on interactive technologies to transform complex, uncertain, and probabilistic information into forms that can support human understanding and decision-making. Yet the literature is fragmented across application domains, technologies, and interaction pa...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator (2026)
+**Authors:** Zhong-Yue Chen, Yuxuan Nai, Qian Chen et al.
+**Link:** [https://www.semanticscholar.org/paper/f43d49c8b6612b7b700a6b3ecddcfaa4cd64828a](https://www.semanticscholar.org/paper/f43d49c8b6612b7b700a6b3ecddcfaa4cd64828a)
+**Published:** 2026-09-16
+**Abstract:** Bipedal loco-manipulation enables robots to interact with objects beyond the nominal workspace of their arms by coordinating locomotion and manipulation. Realizing this capability requires a low-level whole-body controller that translates task-level manipulation goals into coordinated arm and leg mo...
+**Tags:** #to-read #research-inbox
+
+---
+
+### A Field-Deployable GNSS-based Navigation Stack for Outdoor Mobile Robots (2026)
+**Authors:** Yi-Yuan Lin, Cole Regnier, Yu Jiang
+**Link:** [https://www.semanticscholar.org/paper/623e720088530e38a2ea1d171dc7c90b66a1c63a](https://www.semanticscholar.org/paper/623e720088530e38a2ea1d171dc7c90b66a1c63a)
+**Published:** 2026-09-24
+**Abstract:** Outdoor robots require more than an accurate receiver and a path-tracking law: the navigation system must preserve geometric consistency from geographic waypoints to actuator commands, expose measurement validity and timing, and respond to invalid or stale state information. This work presents a ROS...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-09-28
 
 ### Beyond Technology Acceptance: Rethinking the Role of Epistemic Curiosity in Digital Literacy (2026)
