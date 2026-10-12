@@ -1,3 +1,85 @@
+## New papers — 2026-10-12
+
+### The influence of landfill foraging: enteric helminths and bacteria in a population of White Stork (Ciconia ciconia) from central Spain (2026)
+**Authors:** Miguel Garcés-Herrero, C. Verdú-Expósito, Adanys Sanz-Miranda et al.
+**Link:** [https://doi.org/10.3897/oneeco.11.e200352](https://doi.org/10.3897/oneeco.11.e200352)
+**Published:** 2026-10-09
+**Abstract:** 
+ Anthropogenic food subsidies, such as municipal solid waste landfills, profoundly alter wildlife ecology and host–pathogen dynamics. Under a One Health framework, highly mobile synanthropic species exploiting these polluted sites act as biological vectors, effectively bridging human waste reservoi...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Regulated medication information, accessible web delivery? A cross-sectional evaluation of united states prescription drug brand homepages (2026)
+**Authors:** Max Shestov, Christopher Felix Brewer
+**Link:** [https://doi.org/10.1007/s10209-026-01394-9](https://doi.org/10.1007/s10209-026-01394-9)
+**Published:** 2026-10-11
+**Abstract:** Abstract not available.
+**Tags:** #to-read #research-inbox
+
+---
+
+### Generative AI influences on political attitudes and suffrage behavior: Democratic resilience as an analytical framework in the United States (2026)
+**Authors:** Steven B. Madison, Nicol I. Jane, Mariam Awad Abdulla Aljeaidi
+**Link:** [https://doi.org/10.64440/biruni/bir0037](https://doi.org/10.64440/biruni/bir0037)
+**Published:** 2026-10-01
+**Abstract:** The rapid diffusion of generative artificial intelligence (AI) has introduced new challenges to democratic governance by transforming political communication, voter engagement, and information dissemination. Despite growing concerns about deepfakes, synthetic media, and AI-enabled persuasion, schola...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Where's Waldo? Query-language Preference under Cross-lingual Knowledge Disparities (2026)
+**Authors:** Dayeon Ki, Ruochen Zhang, Silviu Cucerzan et al.
+**Link:** [https://www.semanticscholar.org/paper/ce8b29d556cbf752331f679bd48d4b9f2c9f127f](https://www.semanticscholar.org/paper/ce8b29d556cbf752331f679bd48d4b9f2c9f127f)
+**Published:** 2026-09-30
+**Abstract:** Large Language Models increasingly serve as interfaces for knowledge-intensive information seeking tasks across languages by synthesizing multilingual evidence. Prior work has shown that they often exhibit query-language preference -- the tendency to favor sources written in the language of the quer...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Stage-Based Model of User Engagement Patterns in an Online Health Community for Cardiovascular Disease Management: Qualitative Interview Study (2026)
+**Authors:** Monisola Jayeoba, Yu-Yang Yang, Jing-Zhi Yu et al.
+**Link:** [https://doi.org/10.2196/90645](https://doi.org/10.2196/90645)
+**Published:** 2026-10-05
+**Abstract:** Abstract Background Online health communities (OHCs) provide vital peer support and health information to individuals managing chronic conditions. However, sustained user engagement remains challenging, with many users reducing activity over time despite the ongoing benefits these platforms offer. W...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Unlearning Deceptive Behaviors in LLMs with Contrastive Forget Sets (2026)
+**Authors:** Hao-Ran Tang, Rajiv Khanna
+**Link:** [https://www.semanticscholar.org/paper/5edbab810ebe6dfc609fe2275b38168ff9d9824a](https://www.semanticscholar.org/paper/5edbab810ebe6dfc609fe2275b38168ff9d9824a)
+**Published:** 2026-09-30
+**Abstract:** Large language models often know the truth and say otherwise: a model that answers correctly when asked neutrally will affirm a user's mistaken belief, or misstate a fact its system prompt wants hidden, once the context rewards it. Such deception is a behavior conditioned on context, not knowledge, ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### PERAN KOMUNIKASI DIGITAL DALAM PEMASARAN PARIWISATA DI DAYA TARIK WISATA ULUN DANU BERATAN (2026)
+**Authors:** I. M. P. Adiputra, I. D. A. H. Putri, I. N. Agung
+**Link:** [https://doi.org/10.25078/anubhava.v6i2.6956](https://doi.org/10.25078/anubhava.v6i2.6956)
+**Published:** 2026-09-30
+**Abstract:** This study examines the role of digital communication in tourism marketing activities at the Ulun Danu Beratan Tourist Attraction, Tabanan Regency, Bali. The study aims to analyze digital communication strategies, identify obstacles in building the destination image, and examine the implications of ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Bolstering Reach: Tailoring Perinatal Mental Health Digital Care for Black and Native American Communities. (2026)
+**Authors:** R. Hunte, Taylor Shank, Maria Hayes et al.
+**Link:** [https://doi.org/10.1111/birt.70114](https://doi.org/10.1111/birt.70114)
+**Published:** 2026-09-27
+**Abstract:** Perinatal depression is a leading cause of maternal mortality in the US. Center M, a Mindfulness-Based Cognitive Behavioral Therapy intervention, seeks to prevent perinatal depression through the development of a digital app to complement its' therapeutic intervention. The Center M app is used in co...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Investigating Learning Progress of Children Aged 6–12 in the Kidedu Digital Environment: A Comparative Analysis of Three Age Groups (2026)
+**Authors:** Eleni Tsami, Maria Tafiadi
+**Link:** [https://doi.org/10.34190/ecgbl.20.2.5268](https://doi.org/10.34190/ecgbl.20.2.5268)
+**Published:** 2026-09-28
+**Abstract:** Kidedu is an adaptive digital learning environment that has been extensively examined in research conducted at the University of Piraeus, particularly with respect to its pedagogical foundations, user interface design, and alignment with children’s developmental characteristics. As educational techn...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-10-05
 
 ### Development of the Ijma Ulama Mobile Application as an Information Medium for Islamic Legal Foundations (2026)
