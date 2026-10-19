@@ -1,3 +1,66 @@
+## New papers — 2026-10-19
+
+### Analysing Consumers’ Response to Carbon Emission Information in UPI Mobile Applications and Their Green Purchase Intention (2026)
+**Authors:** Sandipan Chakraborty, J. Biswas
+**Link:** [https://doi.org/10.1177/09702385261489893](https://doi.org/10.1177/09702385261489893)
+**Published:** 2026-10-11
+**Abstract:** Environmental sustainability and climate change awareness have increasingly influenced consumer behaviour and business practices in recent years. Simultaneously, the rapid adoption of Unified Payments Interface (UPI) mobile applications in India has transformed digital payment ecosystems into highly...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Optimization of cartographic data rendering in mobile geoinformation systems on the Flutter framework (2026)
+**Authors:** Aleksander B. Gomboin, A. Korikov
+**Link:** [https://doi.org/10.17212/2782-2001-2026-3-7-22](https://doi.org/10.17212/2782-2001-2026-3-7-22)
+**Published:** 2026-09-25
+**Abstract:** This article discusses the problem of optimizing the rendering of complex polygonal objects in mobile geographic information systems (GIS) implemented on the Flutter cross-platform framework. In conditions of limited computing resources of mobile GIS devices and high requirements for interface respo...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Smart College Guide: An Android-Based Centralized Information and Campus Navigation System (2026)
+**Authors:** Bharti Annasaheb Demunde, A. E. Jadhv, A. V. Wmane
+**Link:** [https://doi.org/10.64388/irev10i3-1723262](https://doi.org/10.64388/irev10i3-1723262)
+**Published:** 2026-09-23
+**Abstract:** -Smart College Guide is an Android-based application designed to provide centralized access to important college information and basic campus navigation support. New students, visitors, and other users often depend on notice boards, printed documents, staff members, or manual inquiries to obtain inf...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Fluid-Spatiotemporal Stochastic Geometry for Information Flow in Non-Stationary Fields: Kinematics and Field Reconstruction (2026)
+**Authors:** Wen-Yu Dong, Wei-Wei Jiang, Song Zhao et al.
+**Link:** [https://www.semanticscholar.org/paper/8b69662c865cba74d01bb3f1b1bdef2d3e47c474](https://www.semanticscholar.org/paper/8b69662c865cba74d01bb3f1b1bdef2d3e47c474)
+**Published:** 2026-10-16
+**Abstract:** Classical stochastic geometry primarily addresses forward analysis by prescribing spatial point-process laws and mobility models. It does not directly address the inverse problem of recovering directional macroscopic transport from aggregate density evolution in non-stationary spatial networks. This...
+**Tags:** #to-read #research-inbox
+
+---
+
+### How Social Value Guides Curiosity, Information Search, and Memory in Younger and Older Adults (2026)
+**Authors:** Megan Vaziri, Pelin Tanberg, R. C. Yeung et al.
+**Link:** [https://doi.org/10.64898/2026.10.09.757930](https://doi.org/10.64898/2026.10.09.757930)
+**Published:** 2026-10-13
+**Abstract:** Epistemic curiosity, or the desire for new knowledge, benefits emotional, physical, and cognitive health across the lifespan. Initially believed to be solely intrinsically motivated, recent work has found that extrinsic motivators can also drive epistemic curiosity. One example of the latter is the ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### The effect of social robot authority on epistemic vigilance in early childhood. (2026)
+**Authors:** Xu-Dong Jin, Xin-Yun Cao, Hui Li
+**Link:** [https://doi.org/10.1016/j.jecp.2026.106688](https://doi.org/10.1016/j.jecp.2026.106688)
+**Published:** 2026-10-14
+**Abstract:** Social robots are increasingly deployed as tutors and learning partners, yet their authority cues may discourage children from questioning or verifying information. We investigated whether robot authority influences Chinese children's epistemic vigilance and which source of authority drives this eff...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Generational Differences in Social Media Stalking Practices: A Comparative Study of Digital Natives and Digital Immigrants (2026)
+**Authors:** Derya Gül Ünlü, Fatmanur Arslan Eskiköy
+**Link:** [https://doi.org/10.33788/rcis.94.2](https://doi.org/10.33788/rcis.94.2)
+**Published:** 2026-09-30
+**Abstract:** Digital platforms are multi-layered interactive environments that go beyond simply serving as spaces for communication; they offer the opportunity to observe and monitor other users’ lives and engage in social comparison through shared content. The increasing integration of users into these environm...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-10-12
 
 ### The influence of landfill foraging: enteric helminths and bacteria in a population of White Stork (Ciconia ciconia) from central Spain (2026)
