@@ -1,3 +1,12 @@
+## New papers — 2026-10-26
+
+### Productive State-Space Exploration for Multi-turn RL in LLM Agents (2026)
+**Authors:** Mohammed Haroon Dupty, Yong-Liang Goh, Song Guo et al.
+**Link:** [https://www.semanticscholar.org/paper/9c2a03fecfb8a842cb6ce06c73e9f07abc22b282](https://www.semanticscholar.org/paper/9c2a03fecfb8a842cb6ce06c73e9f07abc22b282)
+**Published:** 2026-10-19
+**Abstract:** Reinforcement Learning (RL) for Large Language Model (LLM) agents in multi-turn, long-horizon environments remains challenging due to inefficient action selection and repetitive behavioral patterns. In particular, agents often become trapped in high-confidence yet unproductive behaviors, repeatedly ...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-10-19
 
 ### Analysing Consumers’ Response to Carbon Emission Information in UPI Mobile Applications and Their Green Purchase Intention (2026)
