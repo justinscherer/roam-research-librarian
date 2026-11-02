@@ -1,3 +1,87 @@
+## New papers — 2026-11-02
+
+### Financial information seeking on mobile devices: a focus on investment financing (2026)
+**Authors:** Nursabrina Abdul Jalil, Suraya Hamid
+**Link:** [https://doi.org/10.47989/ir31357073](https://doi.org/10.47989/ir31357073)
+**Published:** 2026-10-15
+**Abstract:** Introduction. This study examines mobile financial information seeking behaviour, focusing on ASB Loans, a unit trust investment that allows financing.
+Method. This qualitative study involved thirty-eight participants whose mobile search behaviour related to ASB Loans was observed over two ten-minut...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Usability Evaluation of the PSP Mobile Application Based on User Experience (2026)
+**Authors:** Zakki Alawi, M. A. Ghofur, Nirma Ceisa Santi et al.
+**Link:** [https://doi.org/10.33395/sinkron.v10i4.16784](https://doi.org/10.33395/sinkron.v10i4.16784)
+**Published:** 2026-10-05
+**Abstract:** PSP Mobile is an application developed to support digital payment services and the delivery of billing information. This study aims to evaluate the usability of the PSP Mobile interface based on user experience, specifically focusing on ease of use, task completion effectiveness, completion time, us...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Perancangan ui/ux pada aplikasi berbasis mobile trip wisata kutacane menggunakan metode design thinking (2026)
+**Authors:** Agus Munanda, Randi Rian Putra, Heri Kurniawan
+**Link:** [https://doi.org/10.61306/jnastek.v6i4.548](https://doi.org/10.61306/jnastek.v6i4.548)
+**Published:** 2026-10-07
+**Abstract:** Nature tourism in Kutacane, located in Southeast Aceh Regency, includes attractions such as Mount Leuser National Park and Lawe Dua Waterfall. However, tourists face uncertainty regarding precise locations and a lack of information on local amenities such as restrooms, places of worship, and food an...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Development of a Mobile Haptic Interface Improving Navigation Safety During Guidance for the Visually Impaired (2026)
+**Authors:** Junyeong Lee, Jiho Park, Hyeonbeom Shin et al.
+**Link:** [https://doi.org/10.1109/LRA.2026.3734809](https://doi.org/10.1109/LRA.2026.3734809)
+**Published:** 2026-11-01
+**Abstract:** During robot-assisted navigation, visually impaired users cannot directly perceive the planned path's location and direction, leading to deviations and collisions. On the other hand, path anchoring (positioning the user along the path) and orientation guidance (aligning the user to the path) can imp...
+**Tags:** #to-read #research-inbox
+
+---
+
+### MOBILE CDSS TO MITIGATE MEDICATION ERRORS: HEALTHCARE PROVIDERS’ NEEDS FOR REDUCING HEALTH RISKS IN PUBLIC HEALTH (2026)
+**Authors:** Y. Permadi, Akrom, I. Riadi et al.
+**Link:** [https://doi.org/10.46281/bjmsr.v12i1.2994](https://doi.org/10.46281/bjmsr.v12i1.2994)
+**Published:** 2026-10-21
+**Abstract:** In Indonesian hospitals, fragmented digital systems, limited interoperability, and unreliable clinical workflows continue to make patients vulnerable to avoidable harm from medication errors, which are among the most significant patient safety challenges. The use of Clinical Decision Support Systems...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Perancangan UI/UX Aplikasi Mobile BHP Medan Untuk Meningkatkan Efektivitas Layanan Informasi Publik Menggunakan Metode Desain Thinking (2026)
+**Authors:** Ade Christian Lesmana Marbun, Sri Wahyuni, Randi Rian Putra
+**Link:** [https://doi.org/10.61306/jnastek.v6i4.567](https://doi.org/10.61306/jnastek.v6i4.567)
+**Published:** 2026-10-14
+**Abstract:** The delivery of public information that is easily accessible and understandable is an important aspect of supporting the quality of public services. The Medan Heritage Hall (Balai Harta Peninggalan/BHP Medan) has utilized social media and its website to disseminate information; however, the informat...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Dialogue Generation for Conversational Recommendation Using User Search Interactions and Knowledge Graphs (2026)
+**Authors:** Minsung Hwang, D. Yoon, Gowoon Hwang et al.
+**Link:** [https://www.semanticscholar.org/paper/8599b8b3e0b75187cc0f0beb6f8884b15b260df0](https://www.semanticscholar.org/paper/8599b8b3e0b75187cc0f0beb6f8884b15b260df0)
+**Published:** 2026-10-18
+**Abstract:** Large-scale conversational recommendation datasets typically require manual dialogue construction or annotation. We propose SearCl, which automatically generates conversational recommendation dialogues grounded in user search and click behaviors. SearCl segments user interactions into query sessions...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Does transparency matter when interacting with social bots? An experiment on user engagement behaviors in Chinese social media (2026)
+**Authors:** Hao Xu, Shao-Bo Liang, Qing-Xuan Cheng
+**Link:** [https://doi.org/10.1108/itp-05-2026-0970](https://doi.org/10.1108/itp-05-2026-0970)
+**Published:** 2026-10-27
+**Abstract:** 
+ 
+ While transparency is widely promoted as a principle of responsible AI design, its behavioral consequences remain contested, particularly in Chinese social media contexts. This study examines whether different levels of social bot transparency reduce or facilitate user engagement, and whether th...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Navigating Deception on Gay Dating Apps: A Qualitative Study of Users'Experiences, Verification Strategies, and Community Knowledge in China (2026)
+**Authors:** Yi-Bo Meng, Lyumanshan Ye, Bing-Yi Liu et al.
+**Link:** [https://www.semanticscholar.org/paper/86ca08e356259d7fdd01095e38fb7f800851bc42](https://www.semanticscholar.org/paper/86ca08e356259d7fdd01095e38fb7f800851bc42)
+**Published:** 2026-10-16
+**Abstract:** Gay dating applications have become essential platforms for sexual minority men to seek relationships, intimacy, and community, yet they also expose users to a range of deceptive interactions that remain underexplored in HCI and CSCW research. This study examines how gay male users in China experien...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-10-26
 
 ### Productive State-Space Exploration for Multi-turn RL in LLM Agents (2026)
