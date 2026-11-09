@@ -1,3 +1,57 @@
+## New papers — 2026-11-09
+
+### Emergent Control of Ant Learning Walks in a Mobile Robot (2026)
+**Authors:** Thomas Misiek, Andrew Philippides, Paul Graham et al.
+**Link:** [https://www.semanticscholar.org/paper/65ba61b3e16f664995f36eef8d87e77457e8aefa](https://www.semanticscholar.org/paper/65ba61b3e16f664995f36eef8d87e77457e8aefa)
+**Published:** 2026-10-30
+**Abstract:** Before foraging, desert ants perform learning walks (LWs) to acquire visual memories around their nest. With experience, these walks expand, become straighter, and contain fewer visual scans. We previously proposed a model in which these behaviours emerge from the angular mismatch between path integ...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Usability Analysis of the BSB Mobile Application of Bank Sumsel Babel Using Heuristic Evaluation (2026)
+**Authors:** M. R. Pratama
+**Link:** [https://doi.org/10.37899/journallamultiapp.v7i5.6027](https://doi.org/10.37899/journallamultiapp.v7i5.6027)
+**Published:** 2026-11-03
+**Abstract:** Bank Sumsel Babel was established on November 6, 1957, as a regional government owned bank that provides banking services to various companies and government institutions. Currently, e mobile has become an essential means of supporting various fields, including business, education, government, e com...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Development of a mobile platform for zoonosis education: an applied approach to feline sporotrichosis (2026)
+**Authors:** Igor Barros Grilo, Thaís Camila Pereira Veloso, Yanna Leidy Ketley Fernandes Cruz et al.
+**Link:** [https://doi.org/10.11606/issn.1678-4456.bjvras.2026.246351](https://doi.org/10.11606/issn.1678-4456.bjvras.2026.246351)
+**Published:** 2026-10-15
+**Abstract:** Feline sporotrichosis is an emerging zoonotic disease in Brazil, with an increasing number of cases reported in different regions, including the Northeast. Limited access to clear and reliable information may impair early disease recognition, the adoption of preventive measures, and the search for a...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Integrasi Layanan Antrean Digital dan Konsultasi Medis Berbasis Web Mobile menggunakan Pendekatan Telemedicine (2026)
+**Authors:** Rafli Haikal Putra, Anita Fira Waluyo
+**Link:** [https://doi.org/10.61132/jupiter.v4i6.1823](https://doi.org/10.61132/jupiter.v4i6.1823)
+**Published:** 2026-11-03
+**Abstract:** Registration and patient queueing at Mangunjaya Community Health Center have relied on in-person procedures, requiring patients to visit the facility to obtain queue numbers. This practice may contribute to crowded waiting areas and uncertainty regarding service times. This study aimed to develop an...
+**Tags:** #to-read #research-inbox
+
+---
+
+### CuriousTogether: Implications of Curiosity and Cultural Grounding in Multi-Agent LLM Interactions (2026)
+**Authors:** Angana Borah, Zoha Hayat Bhatti, Zhijing Jin et al.
+**Link:** [https://www.semanticscholar.org/paper/e89ea439ed1716931441848b007e6c4e9d351955](https://www.semanticscholar.org/paper/e89ea439ed1716931441848b007e6c4e9d351955)
+**Published:** 2026-10-31
+**Abstract:** Large Language Models (LLMs) are increasingly deployed in multi-agent settings, exhibiting emergent collective behaviors, yet the role of curiosity as a driver of such dynamics remains understudied. We introduce CuriousTogether, a framework evaluating curiosity-driven multi-agent LLM interactions ac...
+**Tags:** #to-read #research-inbox
+
+---
+
+### Cognitive Aids, Epistemic Dependence, and Epistemic Verifications of Religious Knowledge in the Use of Generative Artificial Intelligence in Islamic Religious Education: A Scoping Review (2026)
+**Authors:** Rama Yusuf Figo, Hawwin Huda Yana
+**Link:** [https://doi.org/10.70610/edujavare.2087](https://doi.org/10.70610/edujavare.2087)
+**Published:** 2026-10-31
+**Abstract:** Generative artificial intelligence (GenAI) offers new forms of support for information seeking, conceptual explanation, and learning within Islamic Religious Education (IRE), while simultaneously raising concerns regarding epistemic dependence and the responsibility for knowledge. This study aims to...
+**Tags:** #to-read #research-inbox
+
 ## New papers — 2026-11-02
 
 ### Financial information seeking on mobile devices: a focus on investment financing (2026)
